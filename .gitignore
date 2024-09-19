@@ -1,0 +1,21 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook metadata
+*.nbconvert.ipynb
+
+# Jupyter Notebook output
+*.out
+*.png
+# *.jpg
+# *.jpeg
+*.gif
+# *.pdf
+*.svg
+*.html
+
+# IPython / Jupyter logs
+*.log
+
+# Jupyter Notebook's hidden files
+*.ipynb_checkpoints/

@@ -1,0 +1,22 @@
+{
+   "pages":[
+      {
+         "page":1,
+         "bank_id":1,
+         "words":[
+            {
+               "value":"hello",
+               "confidence":0.9,
+               "geometry": [
+                  [ 0.16, 0.02 ],
+                  [ 0.22, 0.03 ]
+               ]
+            }
+         ],
+         "transaction_geometry":[
+            [ 0.16, 0.02 ],
+            [ 0.22, 0.03 ]
+         ]
+      }
+   ]
+}

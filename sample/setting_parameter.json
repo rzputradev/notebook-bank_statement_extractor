@@ -1,0 +1,76 @@
+{
+   "statement_types": [
+      {
+         "id": 0,
+         "bank": "Mandiri",
+         "type": "Account Statement Report",
+         "keywords": ["Mandiri", "Account Statement Report", "Laporan Rekening Koran"],
+         "settings": {
+            "description_overlap": false,
+            "description_reference": false,
+            "debit_cradit": false,
+            "row_center": true,
+            "main_header": true,
+            "padding": 0.2
+         },
+         "header": {
+            "transaction_date": "Posting Date",
+            "value_date": "",
+            "description": "Remark",
+            "reference No": "Reference No",
+            "debit": "Debit",
+            "credit": "Credit",
+            "balance": "Balance"
+         },
+         "footer": ["No of Debit"]
+      },
+      {
+         "id": 1,
+         "bank": "Mandiri",
+         "type": "Transaction Inquiry",
+         "keywords": ["Mandiri", "Transaction Inquiry"],
+         "settings": {
+            "description_overlap": false,
+            "description_reference": false,
+            "debit_cradit": false,
+            "row_center": false,
+            "main_header": false,
+            "padding": 0.2
+         },
+         "header": {
+            "transaction_date": "Transaction Date",
+            "value_date": "Value Date",
+            "description": "Description",
+            "reference No": "Reference No",
+            "debit": "Debit",
+            "credit": "Credit",
+            "balance": "Saldo"
+         },
+         "footer": ["Total Transaction"]
+      },
+      {
+         "id": 2,
+         "bank": "Mandiri",
+         "type": "Account Statement",
+         "keywords": ["Mandiri", "Rekening Koran", "Account Statement"],
+         "settings": {
+            "description_overlap": false,
+            "description_reference": true,
+            "debit_cradit": true,
+            "row_center": false,
+            "main_header": false,
+            "padding": 0.2
+         },
+         "header": {
+            "transaction_date": "Date",
+            "value_date": "Val.Date",
+            "description": "Description / Reference No.",
+            "reference No": "",
+            "debit": "Debit / Credit",
+            "credit": "",
+            "balance": "Balance"
+         },
+         "footer": ["Mutasi Kredit"]
+      }
+   ]
+}
