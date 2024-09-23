@@ -4,7 +4,7 @@
          "id": 0,
          "bank": "Mandiri",
          "type": "Account Statement Report",
-         "keywords": ["Mandiri", "Account Statement Report", "Laporan Rekening Koran"],
+         "keywords": ["Mandiri", "Account Statement Report"],
          "settings": {
             "description_overlap": false,
             "description_reference": false,
@@ -52,7 +52,7 @@
          "id": 2,
          "bank": "Mandiri",
          "type": "Account Statement",
-         "keywords": ["Mandiri", "Rekening Koran", "Account Statement"],
+         "keywords": ["Mandiri", "Rekening Koran"],
          "settings": {
             "description_overlap": false,
             "description_reference": true,

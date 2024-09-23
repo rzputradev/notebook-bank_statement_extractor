@@ -2,7 +2,36 @@
     "pages": [
         {
             "page_id": 0,
-            "combined_words": "laporan rekening koran a a account statement report mandiri account no 16500",
+            "statement": {
+                "id": 0,
+                "bank": "Mandiri",
+                "type": "Account Statement Report",
+                "keywords": [
+                    "Mandiri",
+                    "Account Statement Report"
+                ],
+                "settings": {
+                    "description_overlap": false,
+                    "description_reference": false,
+                    "debit_cradit": false,
+                    "row_center": true,
+                    "main_header": true,
+                    "padding": 0.2
+                },
+                "header": {
+                    "transaction_date": "Posting Date",
+                    "value_date": "",
+                    "description": "Remark",
+                    "reference No": "Reference No",
+                    "debit": "Debit",
+                    "credit": "Credit",
+                    "balance": "Balance"
+                },
+                "footer": [
+                    "No of Debit"
+                ],
+                "final_score": 800.0
+            },
             "words": [
                 {
                     "value": "Laporan",
@@ -4180,7 +4209,7 @@
         },
         {
             "page_id": 1,
-            "combined_words": "02082022 15 1852 inhousetrf ke yossy 6200000 000 13648336138 02082022 1852 18",
+            "statement": null,
             "words": [
                 {
                     "value": "02/08/2022",
@@ -7840,7 +7869,7 @@
         },
         {
             "page_id": 2,
-            "combined_words": "kaskecil 12082022 0050 372009736106008076 9422transfer 89040000 03 1120510254656010 000 1203346038 20050 fensteres",
+            "statement": null,
             "words": [
                 {
                     "value": "KASKECIL",
@@ -11122,7 +11151,7 @@
         },
         {
             "page_id": 3,
-            "combined_words": "po410 23082022 1952 mcm inhousetrf key yossy 45 inccatantgnpno linggatransfer 6300000 000",
+            "statement": null,
             "words": [
                 {
                     "value": "PO410",
@@ -14614,7 +14643,7 @@
         },
         {
             "page_id": 4,
-            "combined_words": "2 po420 1821 mcm inhousetif kejohnny 3002021 202208301609609409010 budiantotransfer fee 81000000 000",
+            "statement": null,
             "words": [
                 {
                     "value": "2",
@@ -17154,7 +17183,36 @@
         },
         {
             "page_id": 5,
-            "combined_words": "laporan rekening koran e a  account statement report mandiri account no",
+            "statement": {
+                "id": 0,
+                "bank": "Mandiri",
+                "type": "Account Statement Report",
+                "keywords": [
+                    "Mandiri",
+                    "Account Statement Report"
+                ],
+                "settings": {
+                    "description_overlap": false,
+                    "description_reference": false,
+                    "debit_cradit": false,
+                    "row_center": true,
+                    "main_header": true,
+                    "padding": 0.2
+                },
+                "header": {
+                    "transaction_date": "Posting Date",
+                    "value_date": "",
+                    "description": "Remark",
+                    "reference No": "Reference No",
+                    "debit": "Debit",
+                    "credit": "Credit",
+                    "balance": "Balance"
+                },
+                "footer": [
+                    "No of Debit"
+                ],
+                "final_score": 800.0
+            },
             "words": [
                 {
                     "value": "Laporan",
@@ -20814,7 +20872,7 @@
         },
         {
             "page_id": 6,
-            "combined_words": "01092022 1532 mcmoutw cn indriani 15 citradewiciearing fee99102 suryaagung 227900000 000 6382200016",
+            "statement": null,
             "words": [
                 {
                     "value": "01/09/2022",
@@ -25132,7 +25190,7 @@
         },
         {
             "page_id": 7,
-            "combined_words": "202000070075465069102 gapokjul122 02002020 0909 onlinetr 46059 le 15000 000 626613916 02092022 0909",
+            "statement": null,
             "words": [
                 {
                     "value": "202000070075465069102",
@@ -28988,7 +29046,7 @@
         },
         {
             "page_id": 8,
-            "combined_words": "20200616370621899102 po433 06092022 1637 mcm inhousetif ke sartika  28 iriawantransfer fee",
+            "statement": null,
             "words": [
                 {
                     "value": "20200616370621899102",
@@ -32648,7 +32706,7 @@
         },
         {
             "page_id": 9,
-            "combined_words": "tgl31 agt 09092022 1120 ke 02 lonetn fee 120000000 000 138710257116 09092022",
+            "statement": null,
             "words": [
                 {
                     "value": "TGL31",
@@ -36350,7 +36408,7 @@
         },
         {
             "page_id": 10,
-            "combined_words": "po279 14092022 0b40 mcminhousetif ke 351350000 17 saifatransfer fee 000 32754828518 2020913192289850299102",
+            "statement": null,
             "words": [
                 {
                     "value": "PO279",
@@ -39940,7 +39998,7 @@
         },
         {
             "page_id": 11,
-            "combined_words": "beamatera1911622 19092022 1439 16092022 mts 35 transfer mtr1609 700000 000 6468489860 2022mtr",
+            "statement": null,
             "words": [
                 {
                     "value": "BEAMATERA1911622",
@@ -43810,7 +43868,7 @@
         },
         {
             "page_id": 12,
-            "combined_words": "23092022 1620 transfer fee 12 202209231615975175 99102 650000 000 47164629260 23092022 1846",
+            "statement": null,
             "words": [
                 {
                     "value": "23/09/2022",
@@ -47960,7 +48018,7 @@
         },
         {
             "page_id": 13,
-            "combined_words": "23092022 1846 mcm 1outw cn bpk 16 eesnisons fee99102 894464000 000 39521534460",
+            "statement": null,
             "words": [
                 {
                     "value": "23/09/2022",
@@ -52012,7 +52070,7 @@
         },
         {
             "page_id": 14,
-            "combined_words": "po467 2202021 1915 lkevoua 125300000 000 26164541160 7172266277799102 27092022 1915 mcm l",
+            "statement": null,
             "words": [
                 {
                     "value": "PO467",
@@ -55952,7 +56010,7 @@
         },
         {
             "page_id": 15,
-            "combined_words": "no of debit 245 total amount debited 770637524089 no of credit 19",
+            "statement": null,
             "words": [
                 {
                     "value": "No",
