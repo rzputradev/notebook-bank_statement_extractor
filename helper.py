@@ -34,7 +34,7 @@ def load_md(file_path):
 
 def normalize_text(text):
    try:
-      return re.sub(r'\W+', '', str(text).lower())
+      return re.sub(r'\W+', ' ', text).lower()
    except Exception as e:
       print(f"Error: {e}")
       raise e

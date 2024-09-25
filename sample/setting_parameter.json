@@ -1,76 +1,74 @@
-{
-   "statement_types": [
+[
       {
          "id": 0,
          "bank": "Mandiri",
-         "type": "Account Statement Report",
-         "keywords": ["Mandiri", "Account Statement Report"],
-         "settings": {
-            "description_overlap": false,
-            "description_reference": false,
-            "debit_cradit": false,
-            "row_center": true,
-            "main_header": true,
-            "padding": 0.2
+         "report_type": "Account Statement Report",
+         "keyword": ["Mandiri", "Account Statement Report"],
+         "parameter": {
+            "has_description_overlap": false, 
+            "has_description_reference": false,
+            "has_debit_credit_columns": false, 
+            "align_row_center": true,
+            "has_main_header": false,
+            "padding_percentage": 0.2
          },
-         "header": {
+         "column_name": {
             "transaction_date": "Posting Date",
             "value_date": "",
             "description": "Remark",
-            "reference No": "Reference No",
+            "reference": "Reference No",
             "debit": "Debit",
             "credit": "Credit",
             "balance": "Balance"
          },
-         "footer": ["No of Debit"]
+         "buttom_devider": "No of Debit"
       },
       {
          "id": 1,
          "bank": "Mandiri",
-         "type": "Transaction Inquiry",
-         "keywords": ["Mandiri", "Transaction Inquiry"],
-         "settings": {
-            "description_overlap": false,
-            "description_reference": false,
-            "debit_cradit": false,
-            "row_center": false,
-            "main_header": false,
-            "padding": 0.2
+         "report_type": "Transaction Inquiry", 
+         "keyword": ["Mandiri", "Transaction Inquiry"],
+         "parameter": {
+            "has_description_overlap": false,
+            "has_description_reference": false,
+            "has_debit_credit_columns": false,
+            "align_row_center": false,
+            "has_main_header": false,
+            "padding_percentage": 0.2
          },
-         "header": {
+         "column_name": {
             "transaction_date": "Transaction Date",
             "value_date": "Value Date",
             "description": "Description",
-            "reference No": "Reference No",
+            "reference": "Reference No", 
             "debit": "Debit",
             "credit": "Credit",
-            "balance": "Saldo"
+            "balance": "Saldo"  
          },
-         "footer": ["Total Transaction"]
+         "buttom_devider": ["Total Transaction"]
       },
       {
          "id": 2,
          "bank": "Mandiri",
-         "type": "Account Statement",
-         "keywords": ["Mandiri", "Rekening Koran"],
-         "settings": {
-            "description_overlap": false,
-            "description_reference": true,
-            "debit_cradit": true,
-            "row_center": false,
-            "main_header": false,
-            "padding": 0.2
+         "report_type": "Account Statement", 
+         "keyword": ["Mandiri", "Rekening Koran"],
+         "parameter": {
+            "has_description_overlap": false,
+            "has_description_reference": true,
+            "has_debit_credit_columns": true,
+            "align_row_center": false,
+            "has_main_header": false,
+            "padding_percentage": 0.2
          },
-         "header": {
+         "column_name": {
             "transaction_date": "Date",
             "value_date": "Val.Date",
-            "description": "Description / Reference No.",
-            "reference No": "",
-            "debit": "Debit / Credit",
-            "credit": "",
+            "description": "Description/Reference No.",
+            "reference": "",  
+            "debit": "Debit/Credit",  
+            "credit": "",  
             "balance": "Balance"
          },
-         "footer": ["Mutasi Kredit"]
+         "buttom_devider": "Mutasi Kredit"
       }
    ]
-}
