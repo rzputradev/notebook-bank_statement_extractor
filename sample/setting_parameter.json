@@ -21,7 +21,7 @@
             "credit": "Credit",
             "balance": "Balance"
          },
-         "buttom_devider": "No of Debit"
+         "lower_limit": "No of Debit"
       },
       {
          "id": 1,
@@ -45,7 +45,7 @@
             "credit": "Credit",
             "balance": "Saldo"  
          },
-         "buttom_devider": ["Total Transaction"]
+         "lower_limit": ["Total Transaction"]
       },
       {
          "id": 2,
@@ -69,6 +69,6 @@
             "credit": "",  
             "balance": "Balance"
          },
-         "buttom_devider": "Mutasi Kredit"
+         "lower_limit": "Mutasi Kredit"
       }
    ]

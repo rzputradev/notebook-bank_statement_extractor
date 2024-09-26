@@ -2,36 +2,7 @@
     "pages": [
         {
             "page_id": 0,
-            "statement": {
-                "id": 0,
-                "bank": "Mandiri",
-                "type": "Account Statement Report",
-                "keywords": [
-                    "Mandiri",
-                    "Account Statement Report"
-                ],
-                "settings": {
-                    "description_overlap": false,
-                    "description_reference": false,
-                    "debit_cradit": false,
-                    "row_center": true,
-                    "main_header": true,
-                    "padding": 0.2
-                },
-                "header": {
-                    "transaction_date": "Posting Date",
-                    "value_date": "",
-                    "description": "Remark",
-                    "reference No": "Reference No",
-                    "debit": "Debit",
-                    "credit": "Credit",
-                    "balance": "Balance"
-                },
-                "footer": [
-                    "No of Debit"
-                ],
-                "final_score": 800.0
-            },
+            "statement": 0,
             "words": [
                 {
                     "value": "Laporan",
