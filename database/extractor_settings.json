@@ -3,7 +3,7 @@
          "id": 0,
          "bank": "Mandiri",
          "report_type": "Account Statement Report",
-         "keyword": ["Mandiri", "Account Statement Report"],
+         "keyword": ["Mandiri", "Account Statement Report", "Laporan Rekening Koran"],
          "parameter": {
             "statement_title": false,
             "table_header": false
@@ -23,7 +23,7 @@
          "id": 1,
          "bank": "Mandiri",
          "report_type": "Transaction Inquiry", 
-         "keyword": ["Mandiri", "Transaction Inquiry"],
+         "keyword": ["Mandiri", "Transaction Inquiry", "Period"],
          "parameter": {
             "statement_title": false,
             "table_header": false
@@ -37,13 +37,13 @@
             "credit": "Credit",
             "balance": "Saldo"  
          },
-         "lower_limit": ["Total Transaction"]
+         "lower_limit": "Total Transaction"
       },
       {
          "id": 2,
          "bank": "Mandiri",
          "report_type": "Account Statement", 
-         "keyword": ["Mandiri", "Rekening Koran"],
+         "keyword": ["Mandiri", "Rekening Koran", "Account Statement"],
          "parameter": {
             "statement_title": false,
             "table_header": false
@@ -51,9 +51,9 @@
          "column_name": {
             "transaction_date": "Date",
             "value_date": "Val.Date",
-            "description": "Description/Reference No.",
+            "description": "Description / Reference No.",
             "reference": "",  
-            "debit": "Debit/Credit",  
+            "debit": "Debit / Credit",  
             "credit": "",  
             "balance": "Balance"
          },
