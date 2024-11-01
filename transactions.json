@@ -3,1320 +3,891 @@
         {
             "id": 0,
             "datetime": {
-                "value": "02/06/2022 11.38.01",
-                "confidence": 0.9918650388717651,
+                "value": "01/03",
+                "confidence": 0.9992011189460754,
                 "faulty": false
             },
             "valuedate": {
-                "value": "02/06/2022",
-                "confidence": 0.970996618270874,
+                "value": "28/02",
+                "confidence": 0.9541639089584351,
                 "faulty": false
             },
             "description": {
-                "value": "CK 233482-AGUNG PRASETYA Tarik Tunai 00233482",
-                "confidence": 0.7073676586151123,
+                "value": "704005145267314219110357473483650A GA",
+                "confidence": 0.004350169096142054,
                 "faulty": false
             },
             "debit": {
-                "value": 35803950.0,
-                "confidence": 0.9230332374572754,
+                "value": 0.0,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 0.0,
-                "confidence": 0.997198224067688,
+                "value": 863702.0,
+                "confidence": 0.6595277786254883,
                 "faulty": false
             },
             "balance": {
-                "value": 66012819.01,
-                "confidence": 0.9935095310211182,
+                "value": 274849767.0,
+                "confidence": 0.9974940419197083,
                 "faulty": false
             }
         },
         {
             "id": 1,
             "datetime": {
-                "value": "03/06/2022 09.16.15",
-                "confidence": 0.9869914054870605,
+                "value": "02/03",
+                "confidence": 0.9780179262161255,
                 "faulty": false
             },
             "valuedate": {
-                "value": "03/06/2022",
-                "confidence": 0.7074459195137024,
+                "value": "01/03",
+                "confidence": 0.9276065230369568,
                 "faulty": false
             },
             "description": {
-                "value": "Kewajiban Lainnya Yg 002",
-                "confidence": 0.9810239672660828,
+                "value": "704935145267314219110757179000450A GA",
+                "confidence": 0.0024475117679685354,
                 "faulty": false
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 0.9991754293441772,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 194040000.0,
-                "confidence": 0.9000720977783203,
+                "value": 320784.0,
+                "confidence": 0.9959807395935059,
                 "faulty": false
             },
             "balance": {
-                "value": 260052819.01,
-                "confidence": 0.9039797782897949,
+                "value": 275713469.0,
+                "confidence": 0.9917086362838745,
                 "faulty": false
             }
         },
         {
             "id": 2,
             "datetime": {
-                "value": "03/06/2022 15.44.24",
-                "confidence": 0.9718276262283325,
+                "value": "02/03",
+                "confidence": 0.9733524918556213,
                 "faulty": false
             },
             "valuedate": {
-                "value": "03/06/2022",
-                "confidence": 0.9975253939628601,
+                "value": "01/03",
+                "confidence": 0.989924967288971,
                 "faulty": false
             },
             "description": {
-                "value": "1640001647876 1270006354748 4837950004794191",
-                "confidence": 0.8755584955215454,
+                "value": "PARRESTDEPISSERAUL GA",
+                "confidence": 1.491840095901864e-09,
                 "faulty": false
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 0.9970004558563232,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 5483400.0,
-                "confidence": 0.9997392296791077,
+                "value": 769845.0,
+                "confidence": 0.6165928840637207,
                 "faulty": false
             },
             "balance": {
-                "value": 265536219.01,
-                "confidence": 0.9660263061523438,
+                "value": 276034253.0,
+                "confidence": 0.9886763095855713,
                 "faulty": false
             }
         },
         {
             "id": 3,
             "datetime": {
-                "value": "06/06/2022 13.04.11",
-                "confidence": 0.32324618101119995,
+                "value": "03/03",
+                "confidence": 0.9992459416389465,
                 "faulty": false
             },
             "valuedate": {
-                "value": "06/06/2022",
-                "confidence": 0.9507957100868225,
+                "value": "02/03",
+                "confidence": 0.998916745185852,
                 "faulty": false
             },
             "description": {
-                "value": "CK 233483-AGUNG 156, PRASETYAIN233483 00233483",
-                "confidence": 0.5242191553115845,
+                "value": "704905145267314219106157653654150A GA",
+                "confidence": 0.014938955195248127,
                 "faulty": false
             },
             "debit": {
-                "value": 550000.0,
-                "confidence": 0.6977956891059875,
+                "value": 0.0,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 0.0,
-                "confidence": 0.9962562322616577,
+                "value": 549175.0,
+                "confidence": 0.987835168838501,
                 "faulty": false
             },
             "balance": {
-                "value": 108986219.01,
-                "confidence": 0.9959896802902222,
+                "value": 276803038.0,
+                "confidence": 0.5946969389915466,
                 "faulty": false
             }
         },
         {
             "id": 4,
             "datetime": {
-                "value": "06/06/2022 16.33.30",
-                "confidence": 0.7440197467803955,
+                "value": "04/03",
+                "confidence": 0.6953855156898499,
                 "faulty": false
             },
             "valuedate": {
-                "value": "06/06/2022",
-                "confidence": 0.9518744349479675,
+                "value": "03/03",
+                "confidence": 0.9977566003799438,
                 "faulty": false
             },
             "description": {
-                "value": "MCM 1InhouseTrf DARI MARGARETH SINOVAADELIN",
-                "confidence": 0.6517632603645325,
+                "value": "DARMGENENPTRSTESELL GA",
+                "confidence": 2.83633871944744e-09,
                 "faulty": false
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 0.9959655404090881,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 10678200.0,
-                "confidence": 0.9907513856887817,
+                "value": 9555545.0,
+                "confidence": 0.4957268238067627,
                 "faulty": false
             },
             "balance": {
-                "value": 119664419.01,
-                "confidence": 0.8522265553474426,
+                "value": 277352273.0,
+                "confidence": 0.9697791934013367,
                 "faulty": false
             }
         },
         {
             "id": 5,
             "datetime": {
-                "value": "07/06/2022 12.49.33",
-                "confidence": 0.718051552772522,
+                "value": "06/03",
+                "confidence": 0.9079645276069641,
                 "faulty": false
             },
             "valuedate": {
-                "value": "07/06/2022",
-                "confidence": 0.9407327175140381,
+                "value": "05/03",
+                "confidence": 0.993101179599762,
                 "faulty": false
             },
             "description": {
-                "value": "MCM InhouseTrf DARI YOHANES CATURE RAHARJO",
-                "confidence": 0.5470958352088928,
+                "value": "BAEEARETIENPIRSETAAL GA",
+                "confidence": 5.3573110392335366e-09,
                 "faulty": false
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 0.9997254014015198,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 200000000.0,
-                "confidence": 0.7462404370307922,
+                "value": 399400.0,
+                "confidence": 0.9895540475845337,
                 "faulty": false
             },
             "balance": {
-                "value": 319664419.01,
-                "confidence": 0.5343039035797119,
+                "value": 286907918.0,
+                "confidence": 0.6640365123748779,
                 "faulty": false
             }
         },
         {
             "id": 6,
             "datetime": {
-                "value": "07/06/2022 14.14.24",
-                "confidence": 0.9794628024101257,
+                "value": "07/03",
+                "confidence": 0.8931303024291992,
                 "faulty": false
             },
             "valuedate": {
-                "value": "07/06/2022",
-                "confidence": 0.9988705515861511,
+                "value": "06/03",
+                "confidence": 0.9002906084060669,
                 "faulty": false
             },
             "description": {
-                "value": "PT PRIMA KONSTRUKSI- 002",
-                "confidence": 0.7870743274688721,
+                "value": "DAOENEDERTRSERNGXOE GA",
+                "confidence": 8.50803871799144e-09,
                 "faulty": false
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 0.9997254014015198,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 16264500.0,
-                "confidence": 0.9986166954040527,
+                "value": 8087850.0,
+                "confidence": 0.6519224047660828,
                 "faulty": false
             },
             "balance": {
-                "value": 335928919.01,
-                "confidence": 0.9218007922172546,
+                "value": 287307318.0,
+                "confidence": 0.9700987935066223,
                 "faulty": false
             }
         },
         {
             "id": 7,
             "datetime": {
-                "value": "08/06/2022 09.08.01",
-                "confidence": 0.9836367964744568,
+                "value": "08/03",
+                "confidence": 0.9956217408180237,
                 "faulty": false
             },
             "valuedate": {
-                "value": "08/06/2022",
-                "confidence": 0.9677517414093018,
+                "value": "07/03",
+                "confidence": 0.9975958466529846,
                 "faulty": false
             },
             "description": {
-                "value": "Kabel N2XY 16mm PT SKM M MCM InhouseTrf DARI ANI INDRASWARI ARDIANA",
-                "confidence": 0.7024350166320801,
+                "value": "70405145367314219110852705841504 GA",
+                "confidence": 0.005525982938706875,
                 "faulty": false
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 0.8238973021507263,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 10601250.0,
-                "confidence": 0.9981905817985535,
+                "value": 928605.0,
+                "confidence": 0.988145112991333,
                 "faulty": false
             },
             "balance": {
-                "value": 346530169.01,
-                "confidence": 0.911291778087616,
+                "value": 295295188.0,
+                "confidence": 0.5397428274154663,
                 "faulty": false
             }
         },
         {
             "id": 8,
             "datetime": {
-                "value": "08/06/2022 09.43.17",
-                "confidence": 0.9431941509246826,
+                "value": "10/03",
+                "confidence": 0.9604697227478027,
                 "faulty": false
             },
             "valuedate": {
-                "value": "08/06/2022",
-                "confidence": 0.3861367106437683,
+                "value": "09/03",
+                "confidence": 0.9443097710609436,
                 "faulty": false
             },
             "description": {
-                "value": "CK 233484-CICILAN KE 3 PO.078 Transfer 00233484",
-                "confidence": 0.8040543794631958,
+                "value": "704905145267314219110653460100490A GA",
+                "confidence": 0.003268997883424163,
                 "faulty": false
             },
             "debit": {
-                "value": 30000000.0,
-                "confidence": 0.8227309584617615,
+                "value": 0.0,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 0.0,
-                "confidence": 0.9994375109672546,
+                "value": 3504735.0,
+                "confidence": 0.9845823645591736,
                 "faulty": false
             },
             "balance": {
-                "value": 316530169.01,
-                "confidence": 0.6555758714675903,
+                "value": 296323773.0,
+                "confidence": 0.8667985796928406,
                 "faulty": false
             }
         },
         {
             "id": 9,
             "datetime": {
-                "value": "09/06/2022 06.10.15",
-                "confidence": 0.9821978807449341,
+                "value": "11/03",
+                "confidence": 0.9984133839607239,
                 "faulty": false
             },
             "valuedate": {
-                "value": "09/06/2022",
-                "confidence": 0.9478099346160889,
+                "value": "10/03",
+                "confidence": 0.9958914518356323,
                 "faulty": false
             },
             "description": {
-                "value": "BG 439413-BG 439413 99411 20220608000153 10439413",
-                "confidence": 0.9609507322311401,
+                "value": "DAEESEETISRSTAUL4 GA",
+                "confidence": 5.439082517710858e-09,
                 "faulty": false
             },
             "debit": {
-                "value": 200000000.0,
-                "confidence": 0.6566831469535828,
+                "value": 0.0,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 0.0,
-                "confidence": 0.9989238977432251,
+                "value": 1178230.0,
+                "confidence": 0.9888997673988342,
                 "faulty": false
             },
             "balance": {
-                "value": 116530169.01,
-                "confidence": 0.9286444187164307,
+                "value": 299828508.0,
+                "confidence": 0.9743927121162415,
                 "faulty": false
             }
         },
         {
             "id": 10,
             "datetime": {
-                "value": "09/06/2022 09.04.14",
-                "confidence": 0.7551625370979309,
+                "value": "12/03",
+                "confidence": 0.9989429116249084,
                 "faulty": false
             },
             "valuedate": {
-                "value": "09/06/2022",
-                "confidence": 0.9858992099761963,
+                "value": "11/03",
+                "confidence": 0.9978983998298645,
                 "faulty": false
             },
             "description": {
-                "value": "Pembayaran Invoice 243/NC/INV- 243INCAINV-V12022 VI/2022 MCM InhouseTrf DARI MITRA EMAS INDOTAMA",
-                "confidence": 0.0653141438961029,
+                "value": "DAOEAGETRENNOSEARAUE GA",
+                "confidence": 7.415703051627531e-10,
                 "faulty": false
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 0.9978575110435486,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 55446975.0,
-                "confidence": 0.9994837045669556,
+                "value": 569145.0,
+                "confidence": 0.9577357769012451,
                 "faulty": false
             },
             "balance": {
-                "value": 171977144.01,
-                "confidence": 0.9965662956237793,
+                "value": 301006738.0,
+                "confidence": 0.9813580513000488,
                 "faulty": false
             }
         },
         {
             "id": 11,
             "datetime": {
-                "value": "09/06/2022 11.52.02",
-                "confidence": 0.980731189250946,
+                "value": "13/03",
+                "confidence": 0.9946053624153137,
                 "faulty": false
             },
             "valuedate": {
-                "value": "09/06/2022",
-                "confidence": 0.9982220530509949,
+                "value": "12/03",
+                "confidence": 0.9788997173309326,
                 "faulty": false
             },
             "description": {
-                "value": "PO 84,22 KABEL NYEGBY 4X70MM 106 METERIC Setor Tunai",
-                "confidence": 0.8091523051261902,
+                "value": "T04005145267312191107158743744924 GA",
+                "confidence": 0.04115624353289604,
                 "faulty": false
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 0.999697744846344,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 66780000.0,
-                "confidence": 0.8547092080116272,
+                "value": 1273087.0,
+                "confidence": 0.9836111068725586,
                 "faulty": false
             },
             "balance": {
-                "value": 238757144.01,
-                "confidence": 0.9798489212989807,
+                "value": 301575883.0,
+                "confidence": 0.600174605846405,
                 "faulty": false
             }
         },
         {
             "id": 12,
             "datetime": {
-                "value": "09/06/2022 12.27.13",
-                "confidence": 0.9325066208839417,
+                "value": "14/03",
+                "confidence": 0.9377759099006653,
                 "faulty": false
             },
             "valuedate": {
-                "value": "09/06/2022",
-                "confidence": 0.9987772107124329,
+                "value": "13/03",
+                "confidence": 0.7615663409233093,
                 "faulty": false
             },
             "description": {
-                "value": "Noxindo PO 386 MCM InhouseTrf DARI BENVORS SARANA UTAMA",
-                "confidence": 0.9741315841674805,
+                "value": "704251452673142191077258201804524 GA",
+                "confidence": 0.0018761545652523637,
                 "faulty": false
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 0.9994651079177856,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 4226063.0,
-                "confidence": 0.9785594940185547,
+                "value": 5610070.0,
+                "confidence": 0.9389349222183228,
                 "faulty": false
             },
             "balance": {
-                "value": 242983207.01,
-                "confidence": 0.9915066361427307,
+                "value": 302848970.0,
+                "confidence": 0.9670588970184326,
                 "faulty": false
             }
         },
         {
             "id": 13,
             "datetime": {
-                "value": "10/06/2022 08.56.10",
-                "confidence": 0.5516970753669739,
+                "value": "15/03",
+                "confidence": 0.9966477155685425,
                 "faulty": false
             },
             "valuedate": {
-                "value": "10/06/2022",
-                "confidence": 0.6193581223487854,
+                "value": "14/03",
+                "confidence": 0.9793334603309631,
                 "faulty": false
             },
             "description": {
-                "value": "MCM InhouseTrf DARI CIPTA GUNA INDOTECH",
-                "confidence": 0.5245662331581116,
+                "value": "TASERTILMIUENETUSAL GA",
+                "confidence": 1.726404130764081e-09,
                 "faulty": false
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 0.998686671257019,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 2207790.0,
-                "confidence": 0.9449416995048523,
+                "value": 1377930.0,
+                "confidence": 0.9843138456344604,
                 "faulty": false
             },
             "balance": {
-                "value": 245190997.01,
-                "confidence": 0.5137473344802856,
+                "value": 309459040.0,
+                "confidence": 0.4474785625934601,
                 "faulty": false
             }
         },
         {
             "id": 14,
             "datetime": {
-                "value": "10/06/2022 12.14.02",
-                "confidence": 0.8968713283538818,
+                "value": "16/03",
+                "confidence": 0.997750461101532,
                 "faulty": false
             },
             "valuedate": {
-                "value": "10/06/2022",
-                "confidence": 0.9938970804214478,
+                "value": "15/03",
+                "confidence": 0.994867205619812,
                 "faulty": false
             },
             "description": {
-                "value": "CK 233486- Tarik Tunai 00233486",
-                "confidence": 0.9845536947250366,
+                "value": "TARESRTEMUGNNENOL GA",
+                "confidence": 6.413767295043726e-10,
                 "faulty": false
             },
             "debit": {
-                "value": 5000000.0,
-                "confidence": 0.9982144236564636,
+                "value": 0.0,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 0.0,
-                "confidence": 0.9993317127227783,
+                "value": 2646024.0,
+                "confidence": 0.518144428730011,
                 "faulty": false
             },
             "balance": {
-                "value": 240190997.01,
-                "confidence": 0.9886993765830994,
+                "value": 310836970.0,
+                "confidence": 0.9118064045906067,
                 "faulty": false
             }
         },
         {
             "id": 15,
             "datetime": {
-                "value": "10/06/2022 12.15.23",
-                "confidence": 0.5703465938568115,
+                "value": "17/03",
+                "confidence": 0.8688183426856995,
                 "faulty": false
             },
             "valuedate": {
-                "value": "10/06/2022",
-                "confidence": 0.9890474081039429,
+                "value": "16/03",
+                "confidence": 0.949849545955658,
                 "faulty": false
             },
             "description": {
-                "value": "CK 233485- Tarik Tunai 00233485",
-                "confidence": 0.6744562983512878,
+                "value": "TARHEENGNUSARNNO4 GA",
+                "confidence": 5.98303004362144e-11,
                 "faulty": false
             },
             "debit": {
-                "value": 34294080.0,
-                "confidence": 0.9629575610160828,
+                "value": 0.0,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 0.0,
-                "confidence": 0.9996758103370667,
+                "value": 3644525.0,
+                "confidence": 0.9939160346984863,
                 "faulty": false
             },
             "balance": {
-                "value": 205896917.01,
-                "confidence": 0.991593599319458,
+                "value": 313482994.0,
+                "confidence": 0.9381604194641113,
                 "faulty": false
             }
         },
         {
             "id": 16,
             "datetime": {
-                "value": "10/06/2022 14.13.31",
-                "confidence": 0.8601265549659729,
+                "value": "18/03",
+                "confidence": 0.9981487393379211,
                 "faulty": false
             },
             "valuedate": {
-                "value": "10/06/2022",
-                "confidence": 0.9139502048492432,
+                "value": "17/03",
+                "confidence": 0.9992497563362122,
                 "faulty": false
             },
             "description": {
-                "value": "00006-BEAMAATERAI 439413 09062022 MTS-Tri-Debet BEAMAATERAI 439413 09062022",
-                "confidence": 0.2879435122013092,
+                "value": "70420514525731421911065314198.650L4 GA",
+                "confidence": 0.0007409134414047003,
                 "faulty": false
             },
             "debit": {
-                "value": 7000.0,
-                "confidence": 0.997614860534668,
+                "value": 0.0,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 0.0,
-                "confidence": 0.953675389289856,
+                "value": 5032350.0,
+                "confidence": 0.9691916108131409,
                 "faulty": false
             },
             "balance": {
-                "value": 205889917.01,
-                "confidence": 0.9985429048538208,
+                "value": 317127519.0,
+                "confidence": 0.9905539155006409,
                 "faulty": false
             }
         },
         {
             "id": 17,
             "datetime": {
-                "value": "13/06/2022 11.48.46",
-                "confidence": 0.9849293828010559,
+                "value": "19/03",
+                "confidence": 0.854023277759552,
                 "faulty": false
             },
             "valuedate": {
-                "value": "13/06/2022",
-                "confidence": 0.8669006824493408,
+                "value": "18/03",
+                "confidence": 0.9984095692634583,
                 "faulty": false
             },
             "description": {
-                "value": "CK 233487-AGUNG PRASETYA Tarik Tunai 00233487",
-                "confidence": 0.9155239462852478,
+                "value": "704051452673142191107759485193150LA GA",
+                "confidence": 0.01214852835983038,
                 "faulty": false
             },
             "debit": {
-                "value": 11789000.0,
-                "confidence": 0.9583397507667542,
+                "value": 0.0,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 0.0,
-                "confidence": 0.9975330233573914,
+                "value": 8297535.0,
+                "confidence": 0.7193189859390259,
                 "faulty": false
             },
             "balance": {
-                "value": 194100917.01,
-                "confidence": 0.9985809922218323,
+                "value": 322219389.0,
+                "confidence": 0.629918098449707,
                 "faulty": false
             }
         },
         {
             "id": 18,
             "datetime": {
-                "value": "13/06/2022 14.49.03",
-                "confidence": 0.9077792167663574,
+                "value": "20/03",
+                "confidence": 0.9956207871437073,
                 "faulty": false
             },
             "valuedate": {
-                "value": "13/06/2022",
-                "confidence": 0.9705429673194885,
+                "value": "19/03",
+                "confidence": 0.9194662570953369,
                 "faulty": false
             },
             "description": {
-                "value": "047/PO/HSSNI22 DP 70% Setor Tunai",
-                "confidence": 0.3060262203216553,
+                "value": "70490514526731421911085861466.152A SA",
+                "confidence": 0.012159070000052452,
                 "faulty": false
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 0.9959636330604553,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 61025580.0,
-                "confidence": 0.736296534538269,
+                "value": 2915770.0,
+                "confidence": 0.7924903631210327,
                 "faulty": false
             },
             "balance": {
-                "value": 255126497.01,
-                "confidence": 0.986859142780304,
+                "value": 330517404.0,
+                "confidence": 0.6040446162223816,
                 "faulty": false
             }
         },
         {
             "id": 19,
             "datetime": {
-                "value": "14/06/2022 08.38.51",
-                "confidence": 0.9695475697517395,
+                "value": "21/03",
+                "confidence": 0.9987748265266418,
                 "faulty": false
             },
             "valuedate": {
-                "value": "14/06/2022",
-                "confidence": 0.7648861408233643,
+                "value": "20/03",
+                "confidence": 0.5884878039360046,
                 "faulty": false
             },
             "description": {
-                "value": "CK 233489- Transfer 00233489 PELUNASAN PO 015",
-                "confidence": 0.581313967704773,
+                "value": "70492514528731421911079597913714524 GA",
+                "confidence": 0.020209789276123047,
                 "faulty": false
             },
             "debit": {
-                "value": 66327000.0,
-                "confidence": 0.9980230927467346,
+                "value": 0.0,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 0.0,
-                "confidence": 0.9997168183326721,
+                "value": 2955560.0,
+                "confidence": 0.5049189925193787,
                 "faulty": false
             },
             "balance": {
-                "value": 188799497.01,
-                "confidence": 0.9976152181625366,
+                "value": 333333174.0,
+                "confidence": 0.390953004360199,
                 "faulty": false
             }
         },
         {
             "id": 20,
             "datetime": {
-                "value": "14/06/2022 08.42.36",
-                "confidence": 0.8405174612998962,
+                "value": "22/03",
+                "confidence": 0.9308739304542542,
                 "faulty": false
             },
             "valuedate": {
-                "value": "14/06/2022",
-                "confidence": 0.9516375660896301,
+                "value": "21/03",
+                "confidence": 0.9986343383789062,
                 "faulty": false
             },
             "description": {
-                "value": "Transfer",
-                "confidence": 0.9991106390953064,
+                "value": "70493514528731421910092353862245.4514 GA",
+                "confidence": 0.0025056530721485615,
                 "faulty": false
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 0.9991296529769897,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 6031740.0,
-                "confidence": 0.9248527884483337,
+                "value": 15936060.0,
+                "confidence": 0.6606495976448059,
                 "faulty": false
             },
             "balance": {
-                "value": 194831237.01,
-                "confidence": 0.8568189740180969,
+                "value": 336288734.0,
+                "confidence": 0.5891790986061096,
                 "faulty": false
             }
         },
         {
             "id": 21,
             "datetime": {
-                "value": "14/06/2022 08.57.35",
-                "confidence": 0.949184000492096,
+                "value": "129/03",
+                "confidence": 0.6728129386901855,
                 "faulty": false
             },
             "valuedate": {
-                "value": "14/06/2022",
-                "confidence": 0.9329562187194824,
+                "value": "28/03",
+                "confidence": 0.9978403449058533,
                 "faulty": false
             },
             "description": {
-                "value": "CK 233488-AGUNG PRASETYA Tarik Tunai 00233488",
-                "confidence": 0.8845612406730652,
+                "value": "DAREERDIEPIRRNSAARA GA",
+                "confidence": 1.0127470417842233e-08,
                 "faulty": false
             },
             "debit": {
-                "value": 38535400.0,
-                "confidence": 0.9533345699310303,
+                "value": 0.0,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 0.0,
-                "confidence": 0.999791145324707,
+                "value": 92361200.0,
+                "confidence": 0.5461064577102661,
                 "faulty": false
             },
             "balance": {
-                "value": 156295837.01,
-                "confidence": 0.999845027923584,
+                "value": 352224794.0,
+                "confidence": 0.7537022233009338,
                 "faulty": false
             }
         },
         {
             "id": 22,
             "datetime": {
-                "value": "15/06/2022 02.24.34",
-                "confidence": 0.9835204482078552,
+                "value": "30/03",
+                "confidence": 0.2300081104040146,
                 "faulty": false
             },
             "valuedate": {
-                "value": "15/06/2022",
-                "confidence": 0.999873161315918,
+                "value": "29/03",
+                "confidence": 0.999517560005188,
                 "faulty": false
             },
             "description": {
-                "value": "Dari 1270006354748D Ke 1270100638525L AGF-OtoGrabFnd",
-                "confidence": 0.8518773913383484,
+                "value": "SARMGFDCEPNORENUISSE4 GA",
+                "confidence": 2.813890453978729e-09,
                 "faulty": false
             },
             "debit": {
-                "value": 16463225.0,
-                "confidence": 0.9697181582450867,
+                "value": 0.0,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 0.0,
-                "confidence": 0.9997511506080627,
+                "value": 6384507.0,
+                "confidence": 0.9418939352035522,
                 "faulty": false
             },
             "balance": {
-                "value": 139832612.01,
-                "confidence": 0.9998478889465332,
+                "value": 353148406.0,
+                "confidence": 0.5568551421165466,
                 "faulty": false
             }
         },
         {
             "id": 23,
             "datetime": {
-                "value": "16/06/2022 11.03.06",
-                "confidence": 0.9939122200012207,
+                "value": "31/03",
+                "confidence": 0.9836809039115906,
                 "faulty": false
             },
             "valuedate": {
-                "value": "16/06/2022",
-                "confidence": 0.9870281219482422,
+                "value": "30/02",
+                "confidence": 0.9461220502853394,
                 "faulty": false
             },
             "description": {
-                "value": "CK 233490-233490 Tarik Tunai 00233490",
-                "confidence": 0.8507821559906006,
+                "value": "PAEENGETRENSMEHTURI4 GA",
+                "confidence": 2.6409624709344826e-08,
                 "faulty": false
             },
             "debit": {
-                "value": 74453435.0,
-                "confidence": 0.9819033741950989,
+                "value": 0.0,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 0.0,
-                "confidence": 0.9997225403785706,
+                "value": 7149260.0,
+                "confidence": 0.8654068112373352,
                 "faulty": false
             },
             "balance": {
-                "value": 65379177.01,
-                "confidence": 0.9968146085739136,
+                "value": 360132913.0,
+                "confidence": 0.8694889545440674,
                 "faulty": false
             }
         },
         {
             "id": 24,
             "datetime": {
-                "value": "17/06/2022 07.21.11",
-                "confidence": 0.9911757111549377,
+                "value": "31/03",
+                "confidence": 0.9987571835517883,
                 "faulty": false
             },
             "valuedate": {
-                "value": "17/06/2022",
-                "confidence": 0.9875158071517944,
+                "value": "31/03",
+                "confidence": 0.9982506036758423,
                 "faulty": false
             },
             "description": {
-                "value": "PRMA CR Transf 1270006354748 5307952023896955",
-                "confidence": 0.45326241850852966,
+                "value": "Biaya Adm",
+                "confidence": 0.8174311518669128,
                 "faulty": false
             },
             "debit": {
-                "value": 0.0,
-                "confidence": 0.9995032548904419,
+                "value": 12500.0,
+                "confidence": 0.9969528913497925,
                 "faulty": false
             },
             "credit": {
-                "value": 20000000.0,
-                "confidence": 0.9712508320808411,
+                "value": 0.0,
+                "confidence": 1.0,
                 "faulty": false
             },
             "balance": {
-                "value": 85379177.01,
-                "confidence": 0.9750954508781433,
+                "value": 367282173.0,
+                "confidence": 0.8604287505149841,
                 "faulty": false
             }
         },
         {
             "id": 25,
             "datetime": {
-                "value": "17/06/2022 08.29.57",
-                "confidence": 0.99272620677948,
+                "value": "31/03",
+                "confidence": 0.8813101649284363,
                 "faulty": false
             },
             "valuedate": {
-                "value": "17/06/2022",
-                "confidence": 0.5596603155136108,
+                "value": "31/03",
+                "confidence": 0.9986581206321716,
                 "faulty": false
             },
             "description": {
-                "value": "CK 233491-CICILANKE 5PO 078 Transfer 00233491",
-                "confidence": 0.8806318640708923,
+                "value": "Bunga",
+                "confidence": 0.772591233253479,
                 "faulty": false
             },
             "debit": {
-                "value": 30000000.0,
-                "confidence": 0.9869174957275391,
+                "value": 0.0,
+                "confidence": 1.0,
                 "faulty": false
             },
             "credit": {
-                "value": 0.0,
-                "confidence": 0.9992173314094543,
+                "value": 286195.0,
+                "confidence": 0.9426581859588623,
                 "faulty": false
             },
             "balance": {
-                "value": 55379177.01,
-                "confidence": 0.9780014753341675,
+                "value": 367269673.0,
+                "confidence": 0.9669345617294312,
                 "faulty": false
             }
         },
         {
             "id": 26,
             "datetime": {
-                "value": "20/06/2022 14.38.25",
-                "confidence": 0.8658868670463562,
+                "value": "131/03",
+                "confidence": 0.3973611295223236,
                 "faulty": false
             },
             "valuedate": {
-                "value": "20/06/2022",
-                "confidence": 0.8691921234130859,
-                "faulty": false
-            },
-            "description": {
-                "value": "2292831000002463 384 BSMDIDJA/CV, ASA DINAMIKA UTAMA",
-                "confidence": 6.902338327563484e-07,
-                "faulty": false
-            },
-            "debit": {
-                "value": 0.0,
-                "confidence": 0.986079752445221,
-                "faulty": false
-            },
-            "credit": {
-                "value": 3552000.0,
-                "confidence": 0.9980787634849548,
-                "faulty": false
-            },
-            "balance": {
-                "value": 58931177.01,
-                "confidence": 0.5043898820877075,
-                "faulty": false
-            }
-        },
-        {
-            "id": 27,
-            "datetime": {
-                "value": "21/06/2022 09.40.39",
-                "confidence": 0.9527690410614014,
-                "faulty": false
-            },
-            "valuedate": {
-                "value": "21/06/2022",
-                "confidence": 0.8846186399459839,
-                "faulty": false
-            },
-            "description": {
-                "value": "pembayaran MCM InhouseTrf DARI MUSTAM KARYAI MANDIRI",
-                "confidence": 0.5345880389213562,
-                "faulty": false
-            },
-            "debit": {
-                "value": 0.0,
-                "confidence": 0.9996004700660706,
-                "faulty": false
-            },
-            "credit": {
-                "value": 26700160.0,
-                "confidence": 0.9211438894271851,
-                "faulty": false
-            },
-            "balance": {
-                "value": 85631337.01,
-                "confidence": 0.9714680910110474,
-                "faulty": false
-            }
-        },
-        {
-            "id": 28,
-            "datetime": {
-                "value": "22/06/2022 11.33.10",
-                "confidence": 0.9642648100852966,
-                "faulty": false
-            },
-            "valuedate": {
-                "value": "22/06/2022",
-                "confidence": 0.8310202956199646,
-                "faulty": false
-            },
-            "description": {
-                "value": "POIO3-22 KABELNYFGBYGNYYCFJO",
-                "confidence": 0.09719232469797134,
-                "faulty": false
-            },
-            "debit": {
-                "value": 0.0,
-                "confidence": 0.9996967911720276,
-                "faulty": false
-            },
-            "credit": {
-                "value": 22755000.0,
-                "confidence": 0.9750480055809021,
-                "faulty": false
-            },
-            "balance": {
-                "value": 108386337.01,
-                "confidence": 0.99981689453125,
-                "faulty": false
-            }
-        },
-        {
-            "id": 29,
-            "datetime": {
-                "value": "23/06/2022 11.54.01",
-                "confidence": 0.9884768724441528,
-                "faulty": false
-            },
-            "valuedate": {
-                "value": "23/06/2022",
-                "confidence": 0.992647647857666,
-                "faulty": false
-            },
-            "description": {
-                "value": "CK 233492-AGUNG PRASETYA 00233492",
-                "confidence": 0.8464253544807434,
-                "faulty": false
-            },
-            "debit": {
-                "value": 52485502.0,
-                "confidence": 0.998153030872345,
-                "faulty": false
-            },
-            "credit": {
-                "value": 0.0,
-                "confidence": 0.9972952008247375,
-                "faulty": false
-            },
-            "balance": {
-                "value": 55900835.01,
-                "confidence": 0.9706236720085144,
-                "faulty": false
-            }
-        },
-        {
-            "id": 30,
-            "datetime": {
-                "value": "27/06/2022 09.22.30",
-                "confidence": 0.9091749787330627,
-                "faulty": false
-            },
-            "valuedate": {
-                "value": "27/06/2022",
-                "confidence": 0.9894705414772034,
-                "faulty": false
-            },
-            "description": {
-                "value": "Invoice Noxindo 267 Inward RTGS PT PRIMA KONSTRUKSIPT. BANKI RAKYAT INDONESIA (PERSERO), TBK",
-                "confidence": 0.4835604727268219,
-                "faulty": false
-            },
-            "debit": {
-                "value": 0.0,
-                "confidence": 0.997514009475708,
-                "faulty": false
-            },
-            "credit": {
-                "value": 158441400.0,
-                "confidence": 0.9977128505706787,
-                "faulty": false
-            },
-            "balance": {
-                "value": 214342235.01,
-                "confidence": 0.9984457492828369,
-                "faulty": false
-            }
-        },
-        {
-            "id": 31,
-            "datetime": {
-                "value": "28/06/2022 11.43.13",
-                "confidence": 0.8654130101203918,
-                "faulty": false
-            },
-            "valuedate": {
-                "value": "28/06/2022",
-                "confidence": 0.9977537393569946,
-                "faulty": false
-            },
-            "description": {
-                "value": "269/NCINV-VI12022 MCM InhouseTrf DARI WEEBZ MANDIRI",
-                "confidence": 0.13881880044937134,
-                "faulty": false
-            },
-            "debit": {
-                "value": 0.0,
-                "confidence": 0.9997835159301758,
-                "faulty": false
-            },
-            "credit": {
-                "value": 14280000.0,
-                "confidence": 0.869245171546936,
-                "faulty": false
-            },
-            "balance": {
-                "value": 228622235.01,
-                "confidence": 0.9948046207427979,
-                "faulty": false
-            }
-        },
-        {
-            "id": 32,
-            "datetime": {
-                "value": "28/06/2022 11.53.02",
-                "confidence": 0.9868549108505249,
-                "faulty": false
-            },
-            "valuedate": {
-                "value": "28/06/2022",
-                "confidence": 0.884363055229187,
-                "faulty": false
-            },
-            "description": {
-                "value": "CK 233493- Tarik Tunai 00233493",
-                "confidence": 0.5104685425758362,
-                "faulty": false
-            },
-            "debit": {
-                "value": 25500000.0,
-                "confidence": 0.6176095604896545,
-                "faulty": false
-            },
-            "credit": {
-                "value": 0.0,
-                "confidence": 0.9996805787086487,
-                "faulty": false
-            },
-            "balance": {
-                "value": 203122235.01,
-                "confidence": 0.9985237121582031,
-                "faulty": false
-            }
-        },
-        {
-            "id": 33,
-            "datetime": {
-                "value": "29/06/2022 09.47.44",
-                "confidence": 0.7525782585144043,
-                "faulty": false
-            },
-            "valuedate": {
-                "value": "29/06/2022",
-                "confidence": 0.9918498992919922,
-                "faulty": false
-            },
-            "description": {
-                "value": "CK 233494- Tarik Tunai 00233494",
-                "confidence": 0.49668675661087036,
-                "faulty": false
-            },
-            "debit": {
-                "value": 16016500.0,
-                "confidence": 0.983357310295105,
-                "faulty": false
-            },
-            "credit": {
-                "value": 0.0,
-                "confidence": 0.9998340606689453,
-                "faulty": false
-            },
-            "balance": {
-                "value": 187105735.01,
-                "confidence": 0.6516254544258118,
-                "faulty": false
-            }
-        },
-        {
-            "id": 34,
-            "datetime": {
-                "value": "30/06/2022 10.07.30",
-                "confidence": 0.9967950582504272,
-                "faulty": false
-            },
-            "valuedate": {
-                "value": "30/06/2022",
-                "confidence": 0.7098274230957031,
-                "faulty": false
-            },
-            "description": {
-                "value": "1241752 1103 CA LC Deposit Setor klirina",
-                "confidence": 0.9837062358856201,
-                "faulty": false
-            },
-            "debit": {
-                "value": 2000.0,
-                "confidence": 0.9807330965995789,
-                "faulty": false
-            },
-            "credit": {
-                "value": 0.0,
-                "confidence": 0.9951794147491455,
-                "faulty": false
-            },
-            "balance": {
-                "value": 187103735.01,
-                "confidence": 0.8512079119682312,
-                "faulty": false
-            }
-        },
-        {
-            "id": 35,
-            "datetime": {
-                "value": "30/06/2022 10.10.58",
-                "confidence": 0.8966661095619202,
-                "faulty": false
-            },
-            "valuedate": {
-                "value": "30/06/2022",
-                "confidence": 0.6061565279960632,
-                "faulty": false
-            },
-            "description": {
-                "value": "CK 233495- Tarik Tunai 00233495",
-                "confidence": 0.8983719944953918,
-                "faulty": false
-            },
-            "debit": {
-                "value": 13300190.0,
-                "confidence": 0.9923722147941589,
-                "faulty": false
-            },
-            "credit": {
-                "value": 0.0,
-                "confidence": 0.9848889708518982,
-                "faulty": false
-            },
-            "balance": {
-                "value": 173803545.01,
-                "confidence": 0.9928654432296753,
-                "faulty": false
-            }
-        },
-        {
-            "id": 36,
-            "datetime": {
-                "value": "30/06/2022 10.12.16",
-                "confidence": 0.9929591417312622,
-                "faulty": false
-            },
-            "valuedate": {
-                "value": "30/06/2022",
-                "confidence": 0.5232582092285156,
-                "faulty": false
-            },
-            "description": {
-                "value": "CK 233496- Tarik Tunai 00233496",
-                "confidence": 0.499115526676178,
-                "faulty": false
-            },
-            "debit": {
-                "value": 2750000.0,
-                "confidence": 0.9993616938591003,
-                "faulty": false
-            },
-            "credit": {
-                "value": 0.0,
-                "confidence": 0.9996281266212463,
-                "faulty": false
-            },
-            "balance": {
-                "value": 171053545.01,
-                "confidence": 0.9924972057342529,
-                "faulty": false
-            }
-        },
-        {
-            "id": 37,
-            "datetime": {
-                "value": "30/06/2022 23.59.00",
-                "confidence": 0.98337322473526,
-                "faulty": false
-            },
-            "valuedate": {
-                "value": "30/06/2022",
-                "confidence": 0.999733030796051,
-                "faulty": false
-            },
-            "description": {
-                "value": "Biava Adm",
-                "confidence": 0.7598651051521301,
-                "faulty": false
-            },
-            "debit": {
-                "value": 25000.0,
-                "confidence": 0.9141018986701965,
-                "faulty": false
-            },
-            "credit": {
-                "value": 0.0,
-                "confidence": 0.9886286854743958,
-                "faulty": false
-            },
-            "balance": {
-                "value": 171028545.01,
-                "confidence": 0.518165111541748,
-                "faulty": false
-            }
-        },
-        {
-            "id": 38,
-            "datetime": {
-                "value": "30/06/2022 23.59.00",
-                "confidence": 0.5450652837753296,
-                "faulty": false
-            },
-            "valuedate": {
-                "value": "30/06/2022",
-                "confidence": 0.9995985627174377,
-                "faulty": false
-            },
-            "description": {
-                "value": "Bunga",
-                "confidence": 0.8767514824867249,
-                "faulty": false
-            },
-            "debit": {
-                "value": 0.0,
-                "confidence": 0.9995585680007935,
-                "faulty": false
-            },
-            "credit": {
-                "value": 113229.2,
-                "confidence": 0.9580984711647034,
-                "faulty": false
-            },
-            "balance": {
-                "value": 171141774.21,
-                "confidence": 0.968945324420929,
-                "faulty": false
-            }
-        },
-        {
-            "id": 39,
-            "datetime": {
-                "value": "30/06/2022 23.59.00",
-                "confidence": 0.8978186845779419,
-                "faulty": false
-            },
-            "valuedate": {
-                "value": "30/06/2022",
-                "confidence": 0.9983391165733337,
+                "value": "31/03",
+                "confidence": 0.9993545413017273,
                 "faulty": false
             },
             "description": {
                 "value": "Pajak",
-                "confidence": 0.9843002557754517,
+                "confidence": 0.7612838745117188,
                 "faulty": false
             },
             "debit": {
-                "value": 22645.84,
-                "confidence": 0.9708910584449768,
+                "value": 57239.0,
+                "confidence": 0.9963911771774292,
                 "faulty": false
             },
             "credit": {
                 "value": 0.0,
-                "confidence": 0.9997397065162659,
+                "confidence": 1.0,
                 "faulty": false
             },
             "balance": {
-                "value": 171119128.37,
-                "confidence": 0.6588617563247681,
+                "value": 367555868.0,
+                "confidence": 0.5367302894592285,
                 "faulty": false
             }
         }
