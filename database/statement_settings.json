@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "report_type": ["BNI", "ACCOUNT", "STATEMENT"],
+        "lower_limit": ["Ending", "Balance"]
+    },
+    {
+        "id": 1,
+        "report_type": ["Histori", "Transaksi"],
+        "lower_limit": ["Apabila", "terdapat", "perbedaan", "dengan", "catatan", "yusma"]
+    },
+    {
+        "id": 2,
+        "report_type": ["BANK", "RAKYAT", "INDONESIA", "Account", "Statement"],
+        "lower_limit": ["OPENING", "CLOSING", "BALANCE"]
+    },
+    {
+        "id": 3,
+        "report_type": ["BANK", "BRI", "LAPORAN", "TRANSAKSI"],
+        "lower_limit": ["Saldo", "Awal", "Total", "Debit"]
+    },
+    {
+        "id": 4,
+        "report_type": ["mandiri","Laporan", "Rekening", "Koran"],
+        "lower_limit": ["No", "of", "Debit"]
+    },
+    {
+        "id": 5,
+        "report_type": ["mandiri", "rekening", "koran"],
+        "lower_limit": ["Mutasi", "Kredit"]
+    },
+    {
+        "id": 6,
+        "report_type": ["mandiri", "TRANSACTION", "INQUIRY"],
+        "lower_limit": ["Total", "Transaction"]
+    }
+]
