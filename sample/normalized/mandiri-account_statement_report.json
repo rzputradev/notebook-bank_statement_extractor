@@ -1,125 +1,7 @@
 [
     {
         "page_id": 0,
-        "statement_id": 0,
-        "dimension": [
-            1684,
-            1190
-        ],
-        "header": [
-            {
-                "value": "Posting",
-                "confidence": 0.999702513217926,
-                "geometry": [
-                    [
-                        0.1655659138655462,
-                        0.1865234375
-                    ],
-                    [
-                        0.21393448004201682,
-                        0.201171875
-                    ]
-                ]
-            },
-            {
-                "value": "Date",
-                "confidence": 0.997124969959259,
-                "geometry": [
-                    [
-                        0.2111705619747899,
-                        0.1865234375
-                    ],
-                    [
-                        0.24571953781512607,
-                        0.2001953125
-                    ]
-                ]
-            },
-            {
-                "value": "Remark",
-                "confidence": 0.9909507632255554,
-                "geometry": [
-                    [
-                        0.2636850052521008,
-                        0.1865234375
-                    ],
-                    [
-                        0.31481748949579835,
-                        0.2001953125
-                    ]
-                ]
-            },
-            {
-                "value": "Reference",
-                "confidence": 0.8172526359558105,
-                "geometry": [
-                    [
-                        0.4018809086134454,
-                        0.181640625
-                    ],
-                    [
-                        0.4668329831932773,
-                        0.1943359375
-                    ]
-                ]
-            },
-            {
-                "value": "No",
-                "confidence": 0.9998941421508789,
-                "geometry": [
-                    [
-                        0.4018809086134454,
-                        0.193359375
-                    ],
-                    [
-                        0.4239922531512605,
-                        0.2041015625
-                    ]
-                ]
-            },
-            {
-                "value": "Debit",
-                "confidence": 0.9976643323898315,
-                "geometry": [
-                    [
-                        0.4930902048319328,
-                        0.1865234375
-                    ],
-                    [
-                        0.5317850577731092,
-                        0.2001953125
-                    ]
-                ]
-            },
-            {
-                "value": "Credit",
-                "confidence": 0.9963160753250122,
-                "geometry": [
-                    [
-                        0.5856814600840337,
-                        0.1875
-                    ],
-                    [
-                        0.6285221901260505,
-                        0.201171875
-                    ]
-                ]
-            },
-            {
-                "value": "Balance",
-                "confidence": 0.9984362721443176,
-                "geometry": [
-                    [
-                        0.689328387605042,
-                        0.1884765625
-                    ],
-                    [
-                        0.7418428308823529,
-                        0.201171875
-                    ]
-                ]
-            }
-        ],
+        "statement_id": 4,
         "words": [
             {
                 "value": "inv49tbs",
@@ -3737,12 +3619,7 @@
     },
     {
         "page_id": 1,
-        "statement_id": 0,
-        "dimension": [
-            1684,
-            1190
-        ],
-        "header": null,
+        "statement_id": 4,
         "words": [
             {
                 "value": "02/08/2022",
@@ -7402,12 +7279,7 @@
     },
     {
         "page_id": 2,
-        "statement_id": 0,
-        "dimension": [
-            1684,
-            1190
-        ],
-        "header": null,
+        "statement_id": 4,
         "words": [
             {
                 "value": "KASKECIL",
@@ -10689,12 +10561,7 @@
     },
     {
         "page_id": 3,
-        "statement_id": 0,
-        "dimension": [
-            1684,
-            1190
-        ],
-        "header": null,
+        "statement_id": 4,
         "words": [
             {
                 "value": "PO410",
@@ -14186,12 +14053,7 @@
     },
     {
         "page_id": 4,
-        "statement_id": 0,
-        "dimension": [
-            1684,
-            1190
-        ],
-        "header": null,
+        "statement_id": 4,
         "words": [
             {
                 "value": "2",
@@ -16479,125 +16341,7 @@
     },
     {
         "page_id": 5,
-        "statement_id": 0,
-        "dimension": [
-            1684,
-            1190
-        ],
-        "header": [
-            {
-                "value": "Posting",
-                "confidence": 0.9994441866874695,
-                "geometry": [
-                    [
-                        0.1669478728991597,
-                        0.1884765625
-                    ],
-                    [
-                        0.21669839810924368,
-                        0.2021484375
-                    ]
-                ]
-            },
-            {
-                "value": "Date",
-                "confidence": 0.9995690584182739,
-                "geometry": [
-                    [
-                        0.2111705619747899,
-                        0.1884765625
-                    ],
-                    [
-                        0.2471014968487395,
-                        0.2021484375
-                    ]
-                ]
-            },
-            {
-                "value": "Remark",
-                "confidence": 0.999667227268219,
-                "geometry": [
-                    [
-                        0.2650669642857143,
-                        0.1884765625
-                    ],
-                    [
-                        0.31619944852941173,
-                        0.2021484375
-                    ]
-                ]
-            },
-            {
-                "value": "Reference",
-                "confidence": 0.9992192387580872,
-                "geometry": [
-                    [
-                        0.4032628676470588,
-                        0.1904296875
-                    ],
-                    [
-                        0.46821494222689075,
-                        0.203125
-                    ]
-                ]
-            },
-            {
-                "value": "No",
-                "confidence": 0.9997673034667969,
-                "geometry": [
-                    [
-                        0.4654510241596639,
-                        0.19140625
-                    ],
-                    [
-                        0.48618040966386555,
-                        0.203125
-                    ]
-                ]
-            },
-            {
-                "value": "Debit",
-                "confidence": 0.9982477426528931,
-                "geometry": [
-                    [
-                        0.4944721638655462,
-                        0.1904296875
-                    ],
-                    [
-                        0.5317850577731092,
-                        0.2041015625
-                    ]
-                ]
-            },
-            {
-                "value": "Credit",
-                "confidence": 0.9987905025482178,
-                "geometry": [
-                    [
-                        0.5856814600840337,
-                        0.19140625
-                    ],
-                    [
-                        0.6285221901260505,
-                        0.205078125
-                    ]
-                ]
-            },
-            {
-                "value": "Balance",
-                "confidence": 0.9997663497924805,
-                "geometry": [
-                    [
-                        0.689328387605042,
-                        0.193359375
-                    ],
-                    [
-                        0.7418428308823529,
-                        0.2060546875
-                    ]
-                ]
-            }
-        ],
+        "statement_id": 4,
         "words": [
             {
                 "value": "10:13:",
@@ -19683,12 +19427,7 @@
     },
     {
         "page_id": 6,
-        "statement_id": 0,
-        "dimension": [
-            1684,
-            1190
-        ],
-        "header": null,
+        "statement_id": 4,
         "words": [
             {
                 "value": "01/09/2022",
@@ -24006,12 +23745,7 @@
     },
     {
         "page_id": 7,
-        "statement_id": 0,
-        "dimension": [
-            1684,
-            1190
-        ],
-        "header": null,
+        "statement_id": 4,
         "words": [
             {
                 "value": "202000070075465069102",
@@ -27867,12 +27601,7 @@
     },
     {
         "page_id": 8,
-        "statement_id": 0,
-        "dimension": [
-            1684,
-            1190
-        ],
-        "header": null,
+        "statement_id": 4,
         "words": [
             {
                 "value": "20200616370621899102",
@@ -31532,12 +31261,7 @@
     },
     {
         "page_id": 9,
-        "statement_id": 0,
-        "dimension": [
-            1684,
-            1190
-        ],
-        "header": null,
+        "statement_id": 4,
         "words": [
             {
                 "value": "TGL31",
@@ -35239,12 +34963,7 @@
     },
     {
         "page_id": 10,
-        "statement_id": 0,
-        "dimension": [
-            1684,
-            1190
-        ],
-        "header": null,
+        "statement_id": 4,
         "words": [
             {
                 "value": "PO279",
@@ -38834,12 +38553,7 @@
     },
     {
         "page_id": 11,
-        "statement_id": 0,
-        "dimension": [
-            1684,
-            1190
-        ],
-        "header": null,
+        "statement_id": 4,
         "words": [
             {
                 "value": "BEAMATERA1911622",
@@ -42709,12 +42423,7 @@
     },
     {
         "page_id": 12,
-        "statement_id": 0,
-        "dimension": [
-            1684,
-            1190
-        ],
-        "header": null,
+        "statement_id": 4,
         "words": [
             {
                 "value": "23/09/2022",
@@ -46864,12 +46573,7 @@
     },
     {
         "page_id": 13,
-        "statement_id": 0,
-        "dimension": [
-            1684,
-            1190
-        ],
-        "header": null,
+        "statement_id": 4,
         "words": [
             {
                 "value": "23/09/2022",
@@ -50921,12 +50625,7 @@
     },
     {
         "page_id": 14,
-        "statement_id": 0,
-        "dimension": [
-            1684,
-            1190
-        ],
-        "header": null,
+        "statement_id": 4,
         "words": [
             {
                 "value": "PO467",
@@ -54866,12 +54565,7 @@
     },
     {
         "page_id": 15,
-        "statement_id": 0,
-        "dimension": [
-            1684,
-            1190
-        ],
-        "header": null,
+        "statement_id": 4,
         "words": []
     }
 ]
