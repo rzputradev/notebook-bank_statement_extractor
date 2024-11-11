@@ -1,0 +1,697 @@
+{
+    "transactions": [
+        {
+            "id": 0,
+            "datetime": {
+                "value": "14/02",
+                "confidence": 0.995895266532898,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "14/02",
+                "confidence": 0.9896417856216431,
+                "faulty": false
+            },
+            "description": {
+                "value": "RTGS",
+                "confidence": 0.9412361979484558,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 1350000000.0,
+                "confidence": 0.9440345764160156,
+                "faulty": false
+            },
+            "balance": {
+                "value": 1420938730.82,
+                "confidence": 0.9670063257217407,
+                "faulty": false
+            }
+        },
+        {
+            "id": 1,
+            "datetime": {
+                "value": "16/02",
+                "confidence": 0.9700303077697754,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "16/02",
+                "confidence": 0.9977803826332092,
+                "faulty": false
+            },
+            "description": {
+                "value": "Tarik Tunai - CK 158064-",
+                "confidence": 0.9576736688613892,
+                "faulty": false
+            },
+            "debit": {
+                "value": 6000000.0,
+                "confidence": 0.888662576675415,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "balance": {
+                "value": 1414938730.82,
+                "confidence": 0.8841598033905029,
+                "faulty": false
+            }
+        },
+        {
+            "id": 2,
+            "datetime": {
+                "value": "16/02",
+                "confidence": 0.9828065037727356,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "16/02",
+                "confidence": 0.9756060838699341,
+                "faulty": false
+            },
+            "description": {
+                "value": "D.DEBIT 5293-4300-000-0475",
+                "confidence": 0.7446595430374146,
+                "faulty": false
+            },
+            "debit": {
+                "value": 1325384147.9,
+                "confidence": 0.9514179229736328,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "balance": {
+                "value": 89554582.92,
+                "confidence": 0.9974206686019897,
+                "faulty": false
+            }
+        },
+        {
+            "id": 3,
+            "datetime": {
+                "value": "17/02",
+                "confidence": 0.9993945956230164,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "17/02",
+                "confidence": 0.9965413212776184,
+                "faulty": false
+            },
+            "description": {
+                "value": "MM InhouseTrf -",
+                "confidence": 0.6385197639465332,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 1500000000.0,
+                "confidence": 0.9778175354003906,
+                "faulty": false
+            },
+            "balance": {
+                "value": 1589554582.92,
+                "confidence": 0.9760498404502869,
+                "faulty": false
+            }
+        },
+        {
+            "id": 4,
+            "datetime": {
+                "value": "17/02",
+                "confidence": 0.9935520887374878,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "17/02",
+                "confidence": 0.9997139573097229,
+                "faulty": false
+            },
+            "description": {
+                "value": "MM InhouseTrf -",
+                "confidence": 0.5760705471038818,
+                "faulty": false
+            },
+            "debit": {
+                "value": 100000000.0,
+                "confidence": 0.9936985373497009,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "balance": {
+                "value": 1489554582.92,
+                "confidence": 0.8910409212112427,
+                "faulty": false
+            }
+        },
+        {
+            "id": 5,
+            "datetime": {
+                "value": "17/02",
+                "confidence": 0.9996424317359924,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "17/02",
+                "confidence": 0.9999237060546875,
+                "faulty": false
+            },
+            "description": {
+                "value": "MM Qutw RTGS",
+                "confidence": 0.7396285533905029,
+                "faulty": false
+            },
+            "debit": {
+                "value": 500000000.0,
+                "confidence": 0.7751193046569824,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "balance": {
+                "value": 989554582.92,
+                "confidence": 0.9990822076797485,
+                "faulty": false
+            }
+        },
+        {
+            "id": 6,
+            "datetime": {
+                "value": "17/02",
+                "confidence": 0.9319958090782166,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "17/02",
+                "confidence": 0.9922898411750793,
+                "faulty": false
+            },
+            "description": {
+                "value": "RTGS Fee - RTGS Fee 000001420035535565",
+                "confidence": 0.33647438883781433,
+                "faulty": false
+            },
+            "debit": {
+                "value": 25000.0,
+                "confidence": 0.7582544684410095,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "balance": {
+                "value": 989529582.92,
+                "confidence": 0.7624130249023438,
+                "faulty": false
+            }
+        },
+        {
+            "id": 7,
+            "datetime": {
+                "value": "17/02",
+                "confidence": 0.9998092651367188,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "17/02",
+                "confidence": 0.9967931509017944,
+                "faulty": false
+            },
+            "description": {
+                "value": "MOM InhouseTrf",
+                "confidence": 0.6237909197807312,
+                "faulty": false
+            },
+            "debit": {
+                "value": 606258156.0,
+                "confidence": 0.90672367811203,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "balance": {
+                "value": 383271426.92,
+                "confidence": 0.9944267868995667,
+                "faulty": false
+            }
+        },
+        {
+            "id": 8,
+            "datetime": {
+                "value": "17/02",
+                "confidence": 0.6770392060279846,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "17/02",
+                "confidence": 0.9881083965301514,
+                "faulty": false
+            },
+            "description": {
+                "value": "202302171039577298",
+                "confidence": 0.9053738117218018,
+                "faulty": false
+            },
+            "debit": {
+                "value": 200000000.0,
+                "confidence": 0.9870036244392395,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "balance": {
+                "value": 183271426.92,
+                "confidence": 0.9984927177429199,
+                "faulty": false
+            }
+        },
+        {
+            "id": 9,
+            "datetime": {
+                "value": "17/02",
+                "confidence": 0.9917004704475403,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "17/02",
+                "confidence": 0.9996739029884338,
+                "faulty": false
+            },
+            "description": {
+                "value": "ARERETBRTIDUNONZHLES",
+                "confidence": 3.043065177621429e-08,
+                "faulty": false
+            },
+            "debit": {
+                "value": 2500.0,
+                "confidence": 0.7039207816123962,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "balance": {
+                "value": 183268926.92,
+                "confidence": 0.9926657676696777,
+                "faulty": false
+            }
+        },
+        {
+            "id": 10,
+            "datetime": {
+                "value": "17/02",
+                "confidence": 0.9573622941970825,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "17/02",
+                "confidence": 0.9951110482215881,
+                "faulty": false
+            },
+            "description": {
+                "value": "MOM InhouseTrf Transfer",
+                "confidence": 0.99104905128479,
+                "faulty": false
+            },
+            "debit": {
+                "value": 46209300.0,
+                "confidence": 0.9918626546859741,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "balance": {
+                "value": 137059626.92,
+                "confidence": 0.8812112808227539,
+                "faulty": false
+            }
+        },
+        {
+            "id": 11,
+            "datetime": {
+                "value": "17/02",
+                "confidence": 0.9995842576026917,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "17/02",
+                "confidence": 0.99720299243927,
+                "faulty": false
+            },
+            "description": {
+                "value": "RTR-BNIN-INMLID ACC-PT. Panca Mitra Mult",
+                "confidence": 0.3192256689071655,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 500000000.0,
+                "confidence": 0.9955040216445923,
+                "faulty": false
+            },
+            "balance": {
+                "value": 637059626.92,
+                "confidence": 0.9986130595207214,
+                "faulty": false
+            }
+        },
+        {
+            "id": 12,
+            "datetime": {
+                "value": "21/02",
+                "confidence": 0.9994356036186218,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "21/02",
+                "confidence": 0.7989577054977417,
+                "faulty": false
+            },
+            "description": {
+                "value": "Setor Tunai",
+                "confidence": 0.9988352656364441,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 800000000.0,
+                "confidence": 0.989998459815979,
+                "faulty": false
+            },
+            "balance": {
+                "value": 1437059626.92,
+                "confidence": 0.9681550860404968,
+                "faulty": false
+            }
+        },
+        {
+            "id": 13,
+            "datetime": {
+                "value": "21/02",
+                "confidence": 0.9997149109840393,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "21/02",
+                "confidence": 0.8493132591247559,
+                "faulty": false
+            },
+            "description": {
+                "value": "Setor Tunai",
+                "confidence": 0.9677609801292419,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 700000000.0,
+                "confidence": 0.9869702458381653,
+                "faulty": false
+            },
+            "balance": {
+                "value": 2137059626.92,
+                "confidence": 0.8772393465042114,
+                "faulty": false
+            }
+        },
+        {
+            "id": 14,
+            "datetime": {
+                "value": "21/02",
+                "confidence": 0.9991220235824585,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "21/02",
+                "confidence": 0.9360371232032776,
+                "faulty": false
+            },
+            "description": {
+                "value": "Setor Tunai",
+                "confidence": 0.998883843421936,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 500000000.0,
+                "confidence": 0.9974731206893921,
+                "faulty": false
+            },
+            "balance": {
+                "value": 2637059626.92,
+                "confidence": 0.9061610102653503,
+                "faulty": false
+            }
+        },
+        {
+            "id": 15,
+            "datetime": {
+                "value": "21/02",
+                "confidence": 0.9998979568481445,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "21/02",
+                "confidence": 0.9995614290237427,
+                "faulty": false
+            },
+            "description": {
+                "value": "MCM InhouseTrf MOM",
+                "confidence": 0.5034688115119934,
+                "faulty": false
+            },
+            "debit": {
+                "value": 265000000.0,
+                "confidence": 0.997093141078949,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "balance": {
+                "value": 2372059626.92,
+                "confidence": 0.9979843497276306,
+                "faulty": false
+            }
+        },
+        {
+            "id": 16,
+            "datetime": {
+                "value": "21/02",
+                "confidence": 0.9914942979812622,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "21/02",
+                "confidence": 0.9539755582809448,
+                "faulty": false
+            },
+            "description": {
+                "value": "Outw RIGS RTGS Fee",
+                "confidence": 0.6165329217910767,
+                "faulty": false
+            },
+            "debit": {
+                "value": 2235000000.0,
+                "confidence": 0.9837456345558167,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "balance": {
+                "value": 137059626.92,
+                "confidence": 0.9984878301620483,
+                "faulty": false
+            }
+        },
+        {
+            "id": 17,
+            "datetime": {
+                "value": "21/02",
+                "confidence": 0.9975016117095947,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "21/02",
+                "confidence": 0.9519625306129456,
+                "faulty": false
+            },
+            "description": {
+                "value": "RIGS Fee 000001420035535565",
+                "confidence": 0.12601862847805023,
+                "faulty": false
+            },
+            "debit": {
+                "value": 25000.0,
+                "confidence": 0.9792190790176392,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "balance": {
+                "value": 137034626.92,
+                "confidence": 0.9969115853309631,
+                "faulty": false
+            }
+        },
+        {
+            "id": 18,
+            "datetime": {
+                "value": "28/02",
+                "confidence": 0.92549729347229,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "28/02",
+                "confidence": 0.7487533092498779,
+                "faulty": false
+            },
+            "description": {
+                "value": "Biaya Adm",
+                "confidence": 0.5486884713172913,
+                "faulty": false
+            },
+            "debit": {
+                "value": 25000.0,
+                "confidence": 0.9914413690567017,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "balance": {
+                "value": 137009626.92,
+                "confidence": 0.9798005819320679,
+                "faulty": false
+            }
+        },
+        {
+            "id": 19,
+            "datetime": {
+                "value": "28/02",
+                "confidence": 0.973022997379303,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "28/02",
+                "confidence": 0.576262891292572,
+                "faulty": false
+            },
+            "description": {
+                "value": "Bunga",
+                "confidence": 0.999016284942627,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 272165.94,
+                "confidence": 0.9993965029716492,
+                "faulty": false
+            },
+            "balance": {
+                "value": 137281792.86,
+                "confidence": 0.9632991552352905,
+                "faulty": false
+            }
+        },
+        {
+            "id": 20,
+            "datetime": {
+                "value": "28/02",
+                "confidence": 0.950664222240448,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "28/02",
+                "confidence": 0.9997463822364807,
+                "faulty": false
+            },
+            "description": {
+                "value": "Pajak",
+                "confidence": 0.5500207543373108,
+                "faulty": false
+            },
+            "debit": {
+                "value": 54433.19,
+                "confidence": 0.9997101426124573,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "balance": {
+                "value": 137227359.67,
+                "confidence": 0.9996020197868347,
+                "faulty": false
+            }
+        }
+    ]
+}

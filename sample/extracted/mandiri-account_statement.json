@@ -1,0 +1,928 @@
+{
+    "transactions": [
+        {
+            "id": 0,
+            "datetime": {
+                "value": "01/03",
+                "confidence": 0.9992011189460754,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "28/02",
+                "confidence": 0.9541639089584351,
+                "faulty": false
+            },
+            "description": {
+                "value": "704005145267314219110357473483650A GA",
+                "confidence": 0.004350169096142054,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 863702.0,
+                "confidence": 0.6595277786254883,
+                "faulty": false
+            },
+            "balance": {
+                "value": 275713469.0,
+                "confidence": 0.9917086362838745,
+                "faulty": false
+            }
+        },
+        {
+            "id": 1,
+            "datetime": {
+                "value": "02/03",
+                "confidence": 0.9780179262161255,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "01/03",
+                "confidence": 0.9276065230369568,
+                "faulty": false
+            },
+            "description": {
+                "value": "704935145267314219110757179000450A GA",
+                "confidence": 0.0024475117679685354,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 320784.0,
+                "confidence": 0.9959807395935059,
+                "faulty": false
+            },
+            "balance": {
+                "value": 276034253.0,
+                "confidence": 0.9886763095855713,
+                "faulty": false
+            }
+        },
+        {
+            "id": 2,
+            "datetime": {
+                "value": "02/03",
+                "confidence": 0.9733524918556213,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "01/03",
+                "confidence": 0.989924967288971,
+                "faulty": false
+            },
+            "description": {
+                "value": "PARRESTDEPISSERAUL GA",
+                "confidence": 1.491840095901864e-09,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 769845.0,
+                "confidence": 0.6165928840637207,
+                "faulty": false
+            },
+            "balance": {
+                "value": 276803038.0,
+                "confidence": 0.5946969389915466,
+                "faulty": false
+            }
+        },
+        {
+            "id": 3,
+            "datetime": {
+                "value": "03/03",
+                "confidence": 0.9992459416389465,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "02/03",
+                "confidence": 0.998916745185852,
+                "faulty": false
+            },
+            "description": {
+                "value": "704905145267314219106157653654150A GA",
+                "confidence": 0.014938955195248127,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 549175.0,
+                "confidence": 0.987835168838501,
+                "faulty": false
+            },
+            "balance": {
+                "value": 277352273.0,
+                "confidence": 0.9697791934013367,
+                "faulty": false
+            }
+        },
+        {
+            "id": 4,
+            "datetime": {
+                "value": "04/03",
+                "confidence": 0.6953855156898499,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "03/03",
+                "confidence": 0.9977566003799438,
+                "faulty": false
+            },
+            "description": {
+                "value": "DARMGENENPTRSTESELL GA",
+                "confidence": 2.83633871944744e-09,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 9555545.0,
+                "confidence": 0.4957268238067627,
+                "faulty": false
+            },
+            "balance": {
+                "value": 286907918.0,
+                "confidence": 0.6640365123748779,
+                "faulty": false
+            }
+        },
+        {
+            "id": 5,
+            "datetime": {
+                "value": "06/03",
+                "confidence": 0.9079645276069641,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "05/03",
+                "confidence": 0.993101179599762,
+                "faulty": false
+            },
+            "description": {
+                "value": "BAEEARETIENPIRSETAAL GA",
+                "confidence": 5.3573110392335366e-09,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 399400.0,
+                "confidence": 0.9895540475845337,
+                "faulty": false
+            },
+            "balance": {
+                "value": 287307318.0,
+                "confidence": 0.9700987935066223,
+                "faulty": false
+            }
+        },
+        {
+            "id": 6,
+            "datetime": {
+                "value": "07/03",
+                "confidence": 0.8931303024291992,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "06/03",
+                "confidence": 0.9002906084060669,
+                "faulty": false
+            },
+            "description": {
+                "value": "DAOENEDERTRSERNGXOE GA",
+                "confidence": 8.50803871799144e-09,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 8087850.0,
+                "confidence": 0.6519224047660828,
+                "faulty": false
+            },
+            "balance": {
+                "value": 295295188.0,
+                "confidence": 0.5397428274154663,
+                "faulty": false
+            }
+        },
+        {
+            "id": 7,
+            "datetime": {
+                "value": "08/03",
+                "confidence": 0.9956217408180237,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "07/03",
+                "confidence": 0.9975958466529846,
+                "faulty": false
+            },
+            "description": {
+                "value": "70405145367314219110852705841504 GA",
+                "confidence": 0.005525982938706875,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 928605.0,
+                "confidence": 0.988145112991333,
+                "faulty": false
+            },
+            "balance": {
+                "value": 296323773.0,
+                "confidence": 0.8667985796928406,
+                "faulty": false
+            }
+        },
+        {
+            "id": 8,
+            "datetime": {
+                "value": "10/03",
+                "confidence": 0.9604697227478027,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "09/03",
+                "confidence": 0.9443097710609436,
+                "faulty": false
+            },
+            "description": {
+                "value": "704905145267314219110653460100490A GA",
+                "confidence": 0.003268997883424163,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 3504735.0,
+                "confidence": 0.9845823645591736,
+                "faulty": false
+            },
+            "balance": {
+                "value": 299828508.0,
+                "confidence": 0.9743927121162415,
+                "faulty": false
+            }
+        },
+        {
+            "id": 9,
+            "datetime": {
+                "value": "11/03",
+                "confidence": 0.9984133839607239,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "10/03",
+                "confidence": 0.9958914518356323,
+                "faulty": false
+            },
+            "description": {
+                "value": "DAEESEETISRSTAUL4 GA",
+                "confidence": 5.439082517710858e-09,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 1178230.0,
+                "confidence": 0.9888997673988342,
+                "faulty": false
+            },
+            "balance": {
+                "value": 301006738.0,
+                "confidence": 0.9813580513000488,
+                "faulty": false
+            }
+        },
+        {
+            "id": 10,
+            "datetime": {
+                "value": "12/03",
+                "confidence": 0.9989429116249084,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "11/03",
+                "confidence": 0.9978983998298645,
+                "faulty": false
+            },
+            "description": {
+                "value": "DAOEAGETRENNOSEARAUE GA",
+                "confidence": 7.415703051627531e-10,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 569145.0,
+                "confidence": 0.9577357769012451,
+                "faulty": false
+            },
+            "balance": {
+                "value": 301575883.0,
+                "confidence": 0.600174605846405,
+                "faulty": false
+            }
+        },
+        {
+            "id": 11,
+            "datetime": {
+                "value": "13/03",
+                "confidence": 0.9946053624153137,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "12/03",
+                "confidence": 0.9788997173309326,
+                "faulty": false
+            },
+            "description": {
+                "value": "T04005145267312191107158743744924 GA",
+                "confidence": 0.04115624353289604,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 1273087.0,
+                "confidence": 0.9836111068725586,
+                "faulty": false
+            },
+            "balance": {
+                "value": 302848970.0,
+                "confidence": 0.9670588970184326,
+                "faulty": false
+            }
+        },
+        {
+            "id": 12,
+            "datetime": {
+                "value": "14/03",
+                "confidence": 0.9377759099006653,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "13/03",
+                "confidence": 0.7615663409233093,
+                "faulty": false
+            },
+            "description": {
+                "value": "704251452673142191077258201804524 GA",
+                "confidence": 0.0018761545652523637,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 5610070.0,
+                "confidence": 0.9389349222183228,
+                "faulty": false
+            },
+            "balance": {
+                "value": 309459040.0,
+                "confidence": 0.4474785625934601,
+                "faulty": false
+            }
+        },
+        {
+            "id": 13,
+            "datetime": {
+                "value": "15/03",
+                "confidence": 0.9966477155685425,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "14/03",
+                "confidence": 0.9793334603309631,
+                "faulty": false
+            },
+            "description": {
+                "value": "TASERTILMIUENETUSAL GA",
+                "confidence": 1.726404130764081e-09,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 1377930.0,
+                "confidence": 0.9843138456344604,
+                "faulty": false
+            },
+            "balance": {
+                "value": 310836970.0,
+                "confidence": 0.9118064045906067,
+                "faulty": false
+            }
+        },
+        {
+            "id": 14,
+            "datetime": {
+                "value": "16/03",
+                "confidence": 0.997750461101532,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "15/03",
+                "confidence": 0.994867205619812,
+                "faulty": false
+            },
+            "description": {
+                "value": "TARESRTEMUGNNENOL GA",
+                "confidence": 6.413767295043726e-10,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 2646024.0,
+                "confidence": 0.518144428730011,
+                "faulty": false
+            },
+            "balance": {
+                "value": 313482994.0,
+                "confidence": 0.9381604194641113,
+                "faulty": false
+            }
+        },
+        {
+            "id": 15,
+            "datetime": {
+                "value": "17/03",
+                "confidence": 0.8688183426856995,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "16/03",
+                "confidence": 0.949849545955658,
+                "faulty": false
+            },
+            "description": {
+                "value": "TARHEENGNUSARNNO4 GA",
+                "confidence": 5.98303004362144e-11,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 3644525.0,
+                "confidence": 0.9939160346984863,
+                "faulty": false
+            },
+            "balance": {
+                "value": 317127519.0,
+                "confidence": 0.9905539155006409,
+                "faulty": false
+            }
+        },
+        {
+            "id": 16,
+            "datetime": {
+                "value": "18/03",
+                "confidence": 0.9981487393379211,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "17/03",
+                "confidence": 0.9992497563362122,
+                "faulty": false
+            },
+            "description": {
+                "value": "70420514525731421911065314198.650L4 GA",
+                "confidence": 0.0007409134414047003,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 5032350.0,
+                "confidence": 0.9691916108131409,
+                "faulty": false
+            },
+            "balance": {
+                "value": 322219389.0,
+                "confidence": 0.629918098449707,
+                "faulty": false
+            }
+        },
+        {
+            "id": 17,
+            "datetime": {
+                "value": "19/03",
+                "confidence": 0.854023277759552,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "18/03",
+                "confidence": 0.9984095692634583,
+                "faulty": false
+            },
+            "description": {
+                "value": "704051452673142191107759485193150LA GA",
+                "confidence": 0.01214852835983038,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 8297535.0,
+                "confidence": 0.7193189859390259,
+                "faulty": false
+            },
+            "balance": {
+                "value": 330517404.0,
+                "confidence": 0.6040446162223816,
+                "faulty": false
+            }
+        },
+        {
+            "id": 18,
+            "datetime": {
+                "value": "20/03",
+                "confidence": 0.9956207871437073,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "19/03",
+                "confidence": 0.9194662570953369,
+                "faulty": false
+            },
+            "description": {
+                "value": "70490514526731421911085861466.152A SA",
+                "confidence": 0.012159070000052452,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 2915770.0,
+                "confidence": 0.7924903631210327,
+                "faulty": false
+            },
+            "balance": {
+                "value": 333333174.0,
+                "confidence": 0.390953004360199,
+                "faulty": false
+            }
+        },
+        {
+            "id": 19,
+            "datetime": {
+                "value": "21/03",
+                "confidence": 0.9987748265266418,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "20/03",
+                "confidence": 0.5884878039360046,
+                "faulty": false
+            },
+            "description": {
+                "value": "70492514528731421911079597913714524 GA",
+                "confidence": 0.020209789276123047,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 2955560.0,
+                "confidence": 0.5049189925193787,
+                "faulty": false
+            },
+            "balance": {
+                "value": 336288734.0,
+                "confidence": 0.5891790986061096,
+                "faulty": false
+            }
+        },
+        {
+            "id": 20,
+            "datetime": {
+                "value": "22/03",
+                "confidence": 0.9308739304542542,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "21/03",
+                "confidence": 0.9986343383789062,
+                "faulty": false
+            },
+            "description": {
+                "value": "70493514528731421910092353862245.4514 GA",
+                "confidence": 0.0025056530721485615,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 15936060.0,
+                "confidence": 0.6606495976448059,
+                "faulty": false
+            },
+            "balance": {
+                "value": 352224794.0,
+                "confidence": 0.7537022233009338,
+                "faulty": false
+            }
+        },
+        {
+            "id": 21,
+            "datetime": {
+                "value": "129/03",
+                "confidence": 0.6728129386901855,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "28/03",
+                "confidence": 0.9978403449058533,
+                "faulty": false
+            },
+            "description": {
+                "value": "DAREERDIEPIRRNSAARA GA",
+                "confidence": 1.0127470417842233e-08,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 92361200.0,
+                "confidence": 0.5461064577102661,
+                "faulty": false
+            },
+            "balance": {
+                "value": 353148406.0,
+                "confidence": 0.5568551421165466,
+                "faulty": false
+            }
+        },
+        {
+            "id": 22,
+            "datetime": {
+                "value": "30/03",
+                "confidence": 0.2300081104040146,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "29/03",
+                "confidence": 0.999517560005188,
+                "faulty": false
+            },
+            "description": {
+                "value": "SARMGFDCEPNORENUISSE4 GA",
+                "confidence": 2.813890453978729e-09,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 6384507.0,
+                "confidence": 0.9418939352035522,
+                "faulty": false
+            },
+            "balance": {
+                "value": 360132913.0,
+                "confidence": 0.8694889545440674,
+                "faulty": false
+            }
+        },
+        {
+            "id": 23,
+            "datetime": {
+                "value": "31/03",
+                "confidence": 0.9836809039115906,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "31/03",
+                "confidence": 0.9982506036758423,
+                "faulty": false
+            },
+            "description": {
+                "value": "30/02 PAEENGETRENSMEHTURI4 GA",
+                "confidence": 2.6409624709344826e-08,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 7149260.0,
+                "confidence": 0.8654068112373352,
+                "faulty": false
+            },
+            "balance": {
+                "value": 367282173.0,
+                "confidence": 0.8604287505149841,
+                "faulty": false
+            }
+        },
+        {
+            "id": 24,
+            "datetime": {
+                "value": "31/03",
+                "confidence": 0.9987571835517883,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "31/03",
+                "confidence": 0.9986581206321716,
+                "faulty": false
+            },
+            "description": {
+                "value": "Biaya Adm",
+                "confidence": 0.8174311518669128,
+                "faulty": false
+            },
+            "debit": {
+                "value": 12500.0,
+                "confidence": 0.9969528913497925,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "balance": {
+                "value": 367269673.0,
+                "confidence": 0.9669345617294312,
+                "faulty": false
+            }
+        },
+        {
+            "id": 25,
+            "datetime": {
+                "value": "31/03",
+                "confidence": 0.8813101649284363,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "31/03",
+                "confidence": 0.9993545413017273,
+                "faulty": false
+            },
+            "description": {
+                "value": "Bunga",
+                "confidence": 0.772591233253479,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "credit": {
+                "value": 286195.0,
+                "confidence": 0.9426581859588623,
+                "faulty": false
+            },
+            "balance": {
+                "value": 367555868.0,
+                "confidence": 0.5367302894592285,
+                "faulty": false
+            }
+        },
+        {
+            "id": 26,
+            "datetime": {
+                "value": "131/03",
+                "confidence": 0.3973611295223236,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "Pajak",
+                "confidence": 0.7612838745117188,
+                "faulty": false
+            },
+            "debit": {
+                "value": 57239.0,
+                "confidence": 0.9963911771774292,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1.0,
+                "faulty": false
+            },
+            "balance": {
+                "value": 367498629.0,
+                "confidence": 0.9814268350601196,
+                "faulty": false
+            }
+        },
+        {
+            "id": 27,
+            "datetime": {
+                "value": "31/03",
+                "confidence": 0.9966748356819153,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "Saldo Pemindahan",
+                "confidence": 0.9499736428260803,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "balance": {
+                "value": 367498829.0,
+                "confidence": 0.2521045207977295,
+                "faulty": false
+            }
+        }
+    ]
+}
