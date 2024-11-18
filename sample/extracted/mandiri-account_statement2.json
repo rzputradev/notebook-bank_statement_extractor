@@ -343,7 +343,7 @@
                 "faulty": false
             },
             "description": {
-                "value": "MOM InhouseTrf Transfer",
+                "value": "MOM InhouseTrf",
                 "confidence": 0.99104905128479,
                 "faulty": false
             },
@@ -376,7 +376,7 @@
                 "faulty": false
             },
             "description": {
-                "value": "RTR-BNIN-INMLID ACC-PT. Panca Mitra Mult",
+                "value": "Transfer RTR-BNIN-INMLID ACC-PT. Panca Mitra Mult",
                 "confidence": 0.3192256689071655,
                 "faulty": false
             },
@@ -508,7 +508,7 @@
                 "faulty": false
             },
             "description": {
-                "value": "MCM InhouseTrf MOM",
+                "value": "MCM InhouseTrf",
                 "confidence": 0.5034688115119934,
                 "faulty": false
             },
@@ -541,7 +541,7 @@
                 "faulty": false
             },
             "description": {
-                "value": "Outw RIGS RTGS Fee",
+                "value": "MOM Outw RIGS",
                 "confidence": 0.6165329217910767,
                 "faulty": false
             },
@@ -574,7 +574,7 @@
                 "faulty": false
             },
             "description": {
-                "value": "RIGS Fee 000001420035535565",
+                "value": "RTGS Fee RIGS Fee 000001420035535565",
                 "confidence": 0.12601862847805023,
                 "faulty": false
             },
