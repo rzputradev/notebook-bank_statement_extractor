@@ -19,16 +19,16 @@
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "credit": {
-                "value": 1350000000.0,
+                "value": 1350000000,
                 "confidence": 0.9440345764160156,
                 "faulty": false
             },
             "balance": {
-                "value": 1420938730.82,
+                "value": 1420938730,
                 "confidence": 0.9670063257217407,
                 "faulty": false
             }
@@ -51,17 +51,17 @@
                 "faulty": false
             },
             "debit": {
-                "value": 6000000.0,
+                "value": 6000000,
                 "confidence": 0.888662576675415,
                 "faulty": false
             },
             "credit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "balance": {
-                "value": 1414938730.82,
+                "value": 1414938730,
                 "confidence": 0.8841598033905029,
                 "faulty": false
             }
@@ -84,17 +84,17 @@
                 "faulty": false
             },
             "debit": {
-                "value": 1325384147.9,
+                "value": 1325384147,
                 "confidence": 0.9514179229736328,
                 "faulty": false
             },
             "credit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "balance": {
-                "value": 89554582.92,
+                "value": 89554582,
                 "confidence": 0.9974206686019897,
                 "faulty": false
             }
@@ -118,16 +118,16 @@
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "credit": {
-                "value": 1500000000.0,
+                "value": 1500000000,
                 "confidence": 0.9778175354003906,
                 "faulty": false
             },
             "balance": {
-                "value": 1589554582.92,
+                "value": 1589554582,
                 "confidence": 0.9760498404502869,
                 "faulty": false
             }
@@ -150,17 +150,17 @@
                 "faulty": false
             },
             "debit": {
-                "value": 100000000.0,
+                "value": 100000000,
                 "confidence": 0.9936985373497009,
                 "faulty": false
             },
             "credit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "balance": {
-                "value": 1489554582.92,
+                "value": 1489554582,
                 "confidence": 0.8910409212112427,
                 "faulty": false
             }
@@ -183,17 +183,17 @@
                 "faulty": false
             },
             "debit": {
-                "value": 500000000.0,
+                "value": 500000000,
                 "confidence": 0.7751193046569824,
                 "faulty": false
             },
             "credit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "balance": {
-                "value": 989554582.92,
+                "value": 989554582,
                 "confidence": 0.9990822076797485,
                 "faulty": false
             }
@@ -216,17 +216,17 @@
                 "faulty": false
             },
             "debit": {
-                "value": 25000.0,
+                "value": 25000,
                 "confidence": 0.7582544684410095,
                 "faulty": false
             },
             "credit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "balance": {
-                "value": 989529582.92,
+                "value": 989529582,
                 "confidence": 0.7624130249023438,
                 "faulty": false
             }
@@ -249,17 +249,17 @@
                 "faulty": false
             },
             "debit": {
-                "value": 606258156.0,
+                "value": 606258156,
                 "confidence": 0.90672367811203,
                 "faulty": false
             },
             "credit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "balance": {
-                "value": 383271426.92,
+                "value": 383271426,
                 "confidence": 0.9944267868995667,
                 "faulty": false
             }
@@ -282,17 +282,17 @@
                 "faulty": false
             },
             "debit": {
-                "value": 200000000.0,
+                "value": 200000000,
                 "confidence": 0.9870036244392395,
                 "faulty": false
             },
             "credit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "balance": {
-                "value": 183271426.92,
+                "value": 183271426,
                 "confidence": 0.9984927177429199,
                 "faulty": false
             }
@@ -315,17 +315,17 @@
                 "faulty": false
             },
             "debit": {
-                "value": 2500.0,
+                "value": 2500,
                 "confidence": 0.7039207816123962,
                 "faulty": false
             },
             "credit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "balance": {
-                "value": 183268926.92,
+                "value": 183268926,
                 "confidence": 0.9926657676696777,
                 "faulty": false
             }
@@ -348,17 +348,17 @@
                 "faulty": false
             },
             "debit": {
-                "value": 46209300.0,
+                "value": 46209300,
                 "confidence": 0.9918626546859741,
                 "faulty": false
             },
             "credit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "balance": {
-                "value": 137059626.92,
+                "value": 137059626,
                 "confidence": 0.8812112808227539,
                 "faulty": false
             }
@@ -382,16 +382,16 @@
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "credit": {
-                "value": 500000000.0,
+                "value": 500000000,
                 "confidence": 0.9955040216445923,
                 "faulty": false
             },
             "balance": {
-                "value": 637059626.92,
+                "value": 637059626,
                 "confidence": 0.9986130595207214,
                 "faulty": false
             }
@@ -415,16 +415,16 @@
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "credit": {
-                "value": 800000000.0,
+                "value": 800000000,
                 "confidence": 0.989998459815979,
                 "faulty": false
             },
             "balance": {
-                "value": 1437059626.92,
+                "value": 1437059626,
                 "confidence": 0.9681550860404968,
                 "faulty": false
             }
@@ -448,16 +448,16 @@
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "credit": {
-                "value": 700000000.0,
+                "value": 700000000,
                 "confidence": 0.9869702458381653,
                 "faulty": false
             },
             "balance": {
-                "value": 2137059626.92,
+                "value": 2137059626,
                 "confidence": 0.8772393465042114,
                 "faulty": false
             }
@@ -481,16 +481,16 @@
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "credit": {
-                "value": 500000000.0,
+                "value": 500000000,
                 "confidence": 0.9974731206893921,
                 "faulty": false
             },
             "balance": {
-                "value": 2637059626.92,
+                "value": 2637059626,
                 "confidence": 0.9061610102653503,
                 "faulty": false
             }
@@ -513,17 +513,17 @@
                 "faulty": false
             },
             "debit": {
-                "value": 265000000.0,
+                "value": 265000000,
                 "confidence": 0.997093141078949,
                 "faulty": false
             },
             "credit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "balance": {
-                "value": 2372059626.92,
+                "value": 2372059626,
                 "confidence": 0.9979843497276306,
                 "faulty": false
             }
@@ -546,17 +546,17 @@
                 "faulty": false
             },
             "debit": {
-                "value": 2235000000.0,
+                "value": 2235000000,
                 "confidence": 0.9837456345558167,
                 "faulty": false
             },
             "credit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "balance": {
-                "value": 137059626.92,
+                "value": 137059626,
                 "confidence": 0.9984878301620483,
                 "faulty": false
             }
@@ -579,17 +579,17 @@
                 "faulty": false
             },
             "debit": {
-                "value": 25000.0,
+                "value": 25000,
                 "confidence": 0.9792190790176392,
                 "faulty": false
             },
             "credit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "balance": {
-                "value": 137034626.92,
+                "value": 137034626,
                 "confidence": 0.9969115853309631,
                 "faulty": false
             }
@@ -612,17 +612,17 @@
                 "faulty": false
             },
             "debit": {
-                "value": 25000.0,
+                "value": 25000,
                 "confidence": 0.9914413690567017,
                 "faulty": false
             },
             "credit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "balance": {
-                "value": 137009626.92,
+                "value": 137009626,
                 "confidence": 0.9798005819320679,
                 "faulty": false
             }
@@ -646,16 +646,16 @@
             },
             "debit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "credit": {
-                "value": 272165.94,
+                "value": 272165,
                 "confidence": 0.9993965029716492,
                 "faulty": false
             },
             "balance": {
-                "value": 137281792.86,
+                "value": 137281792,
                 "confidence": 0.9632991552352905,
                 "faulty": false
             }
@@ -678,17 +678,17 @@
                 "faulty": false
             },
             "debit": {
-                "value": 54433.19,
+                "value": 54433,
                 "confidence": 0.9997101426124573,
                 "faulty": false
             },
             "credit": {
                 "value": 0.0,
-                "confidence": 1.0,
+                "confidence": 1,
                 "faulty": false
             },
             "balance": {
-                "value": 137227359.67,
+                "value": 137227359,
                 "confidence": 0.9996020197868347,
                 "faulty": false
             }

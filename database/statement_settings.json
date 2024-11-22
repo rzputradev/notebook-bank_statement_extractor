@@ -7,7 +7,10 @@
     {
         "id": 1,
         "report_type": ["Histori", "Transaksi"],
-        "lower_limit": ["Apabila", "terdapat", "perbedaan", "dengan", "catatan", "yusma"]
+        "lower_limit": [
+            ["Apabila", "terdapat", "perbedaan", "dengan", "catatan"],
+            ["Saldo", "Awal"]
+        ]
     },
     {
         "id": 2,
