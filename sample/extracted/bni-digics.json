@@ -1,0 +1,598 @@
+{
+    "transactions": [
+        {
+            "id": 0,
+            "datetime": {
+                "value": "2023-11-22",
+                "confidence": 0.7982776165008545,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "TRFIPAY/TOP-UPI ECHANNEL UFROIKAH yusma KARTU 00000000000 BIZID 20230826BNINIDJA010 00200495527",
+                "confidence": 0.7255527377128601,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "credit": {
+                "value": 6500000,
+                "confidence": 0.9998054504394531,
+                "faulty": false
+            },
+            "balance": {
+                "value": 49284687,
+                "confidence": 0.9965056777000427,
+                "faulty": false
+            }
+        },
+        {
+            "id": 1,
+            "datetime": {
+                "value": "2023-11-22",
+                "confidence": 0.550887942314148,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "TRANSFER KE Bpk RONI KUSWANDI",
+                "confidence": 0.8789440393447876,
+                "faulty": false
+            },
+            "debit": {
+                "value": 1250000,
+                "confidence": 0.9999237060546875,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "balance": {
+                "value": 42784687,
+                "confidence": 0.9725391864776611,
+                "faulty": false
+            }
+        },
+        {
+            "id": 2,
+            "datetime": {
+                "value": "2023-11-22",
+                "confidence": 0.550887942314148,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "TARIK TUNAI KARTU 5371 1760380995158 BANK NEGARA INDONESIA MATARAM S1FMTAA109 6889 TRXBIFAST",
+                "confidence": 0.9182144999504089,
+                "faulty": false
+            },
+            "debit": {
+                "value": 6150000,
+                "confidence": 0.9986971616744995,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "balance": {
+                "value": 44034687,
+                "confidence": 0.9763004183769226,
+                "faulty": false
+            }
+        },
+        {
+            "id": 3,
+            "datetime": {
+                "value": "2023-11-22",
+                "confidence": 0.5176312923431396,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "BY",
+                "confidence": 0.9872192144393921,
+                "faulty": false
+            },
+            "debit": {
+                "value": 2500,
+                "confidence": 0.999974250793457,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "balance": {
+                "value": 50184687,
+                "confidence": 0.9332129955291748,
+                "faulty": false
+            }
+        },
+        {
+            "id": 4,
+            "datetime": {
+                "value": "2023-11-22",
+                "confidence": 0.6221680641174316,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "TRFIPAY/TOP-UP ECHANNEL 0561976464 KARTU 0000000000000000 BIZID 20230826BNINIDJA010 00299971848",
+                "confidence": 0.6375329494476318,
+                "faulty": false
+            },
+            "debit": {
+                "value": 15250000,
+                "confidence": 0.9999237060546875,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "balance": {
+                "value": 50187187,
+                "confidence": 0.9932238459587097,
+                "faulty": false
+            }
+        },
+        {
+            "id": 5,
+            "datetime": {
+                "value": "2023-11-22",
+                "confidence": 0.9980639815330505,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "TRFIPAY/TOP-UPI ECHANNEL UFROIKAH yusma KARTU 00000000000 BIZID 20230826BNINIDJA010 00200495527",
+                "confidence": 0.5741862654685974,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "credit": {
+                "value": 16500000,
+                "confidence": 0.9997854232788086,
+                "faulty": false
+            },
+            "balance": {
+                "value": 65437187,
+                "confidence": 0.9915226697921753,
+                "faulty": false
+            }
+        },
+        {
+            "id": 6,
+            "datetime": {
+                "value": "2023-11-19",
+                "confidence": 0.7073244452476501,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "900514 TRANSFER KE Bpk RONI IKUSWANDI",
+                "confidence": 0.7062601447105408,
+                "faulty": false
+            },
+            "debit": {
+                "value": 14500000,
+                "confidence": 0.999974250793457,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "balance": {
+                "value": 48937187,
+                "confidence": 0.9964590668678284,
+                "faulty": false
+            }
+        },
+        {
+            "id": 7,
+            "datetime": {
+                "value": "2023-11-19",
+                "confidence": 0.7508326768875122,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "ECHANNEL SIMSEM TRANSA 6106343685861064677 0802889270 Telemedicine",
+                "confidence": 0.00022201164392754436,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "credit": {
+                "value": 20000000,
+                "confidence": 0.9999179840087891,
+                "faulty": false
+            },
+            "balance": {
+                "value": 63437187,
+                "confidence": 0.9889115691184998,
+                "faulty": false
+            }
+        },
+        {
+            "id": 8,
+            "datetime": {
+                "value": "2023-11-19",
+                "confidence": 0.8869653940200806,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "TRFIPAY/TOP-UP ECHANNEL KARTU 1427101400015428 0000000000000000 NT 26812798 25826",
+                "confidence": 0.6952923536300659,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "credit": {
+                "value": 1650000,
+                "confidence": 0.9998855590820312,
+                "faulty": false
+            },
+            "balance": {
+                "value": 43437187,
+                "confidence": 0.9919142127037048,
+                "faulty": false
+            }
+        },
+        {
+            "id": 9,
+            "datetime": {
+                "value": "2023-11-19",
+                "confidence": 0.5497931241989136,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "TRFIPAY/TOP-UPI ECHANNEL AHMAD IRPANDI KARTU 0000000000000000 BIZID 20230826BRINIDJA010 00211073183",
+                "confidence": 0.26699745655059814,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "credit": {
+                "value": 300000,
+                "confidence": 0.9998054504394531,
+                "faulty": false
+            },
+            "balance": {
+                "value": 41787187,
+                "confidence": 0.9972862005233765,
+                "faulty": false
+            }
+        },
+        {
+            "id": 10,
+            "datetime": {
+                "value": "2023-11-07",
+                "confidence": 0.9988019466400146,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "BY TRXI BIFAST",
+                "confidence": 0.7153735160827637,
+                "faulty": false
+            },
+            "debit": {
+                "value": 2500,
+                "confidence": 0.9976852536201477,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "balance": {
+                "value": 41487187,
+                "confidence": 0.96956467628479,
+                "faulty": false
+            }
+        },
+        {
+            "id": 11,
+            "datetime": {
+                "value": "2023-11-07",
+                "confidence": 0.7429455518722534,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "TREPAVTOP-UPECHANEL 0561976464 KARTU 0000000000000000 BIZID 20230826BNINIDJA010 00299971848",
+                "confidence": 0.025301331654191017,
+                "faulty": false
+            },
+            "debit": {
+                "value": 350000,
+                "confidence": 0.999974250793457,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "balance": {
+                "value": 41489687,
+                "confidence": 0.997351348400116,
+                "faulty": false
+            }
+        },
+        {
+            "id": 12,
+            "datetime": {
+                "value": "2023-11-07",
+                "confidence": 0.569377601146698,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "TRFIPAY/TOP-UPI PECHANNEL KARTU 1427101400015428 0000000000000000 NT 26812798 25826",
+                "confidence": 0.40398094058036804,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "credit": {
+                "value": 1650000,
+                "confidence": 0.9987152814865112,
+                "faulty": false
+            },
+            "balance": {
+                "value": 41839687,
+                "confidence": 0.9970061182975769,
+                "faulty": false
+            }
+        },
+        {
+            "id": 13,
+            "datetime": {
+                "value": "2023-11-02",
+                "confidence": 0.6908826231956482,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "TRFIPAY/TOP-UP ECHANNEL 0140201525316 KARTU 0000000000000000 BIZID 20230826BNINIDJA010 00200655372",
+                "confidence": 0.6375329494476318,
+                "faulty": false
+            },
+            "debit": {
+                "value": 1900000,
+                "confidence": 0.9999237060546875,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "balance": {
+                "value": 40189687,
+                "confidence": 0.9972648024559021,
+                "faulty": false
+            }
+        },
+        {
+            "id": 14,
+            "datetime": {
+                "value": "2023-11-02",
+                "confidence": 0.5663082003593445,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "TRFIPAY/TOP-UP PECHANNEL UFROIKAH yusma KARTU 00000000000 BIZID 20230826BNINIDJA010 00200495527",
+                "confidence": 0.5350136160850525,
+                "faulty": false
+            },
+            "debit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "credit": {
+                "value": 500000,
+                "confidence": 0.9998054504394531,
+                "faulty": false
+            },
+            "balance": {
+                "value": 42089687,
+                "confidence": 0.9986657500267029,
+                "faulty": false
+            }
+        },
+        {
+            "id": 15,
+            "datetime": {
+                "value": "2023-11-02",
+                "confidence": 0.9981287121772766,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "TRANSFER KE Bpk RONI KUSWANDI",
+                "confidence": 0.6474435329437256,
+                "faulty": false
+            },
+            "debit": {
+                "value": 2150000,
+                "confidence": 0.9999237060546875,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "balance": {
+                "value": 41589687,
+                "confidence": 0.9959123730659485,
+                "faulty": false
+            }
+        },
+        {
+            "id": 16,
+            "datetime": {
+                "value": "2023-11-02",
+                "confidence": 0.7084282040596008,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "TRANSFER KE Bpk RONI KUSWANDI",
+                "confidence": 0.9672590494155884,
+                "faulty": false
+            },
+            "debit": {
+                "value": 500000,
+                "confidence": 0.9999237060546875,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "balance": {
+                "value": 43739687,
+                "confidence": 0.9975929856300354,
+                "faulty": false
+            }
+        },
+        {
+            "id": 17,
+            "datetime": {
+                "value": "2023-11-02",
+                "confidence": 0.6908826231956482,
+                "faulty": false
+            },
+            "valuedate": {
+                "value": "",
+                "confidence": 1,
+                "faulty": false
+            },
+            "description": {
+                "value": "TRANSFER KE Bpk UD. FARIZQI",
+                "confidence": 0.6897680759429932,
+                "faulty": false
+            },
+            "debit": {
+                "value": 250000,
+                "confidence": 0.9999732971191406,
+                "faulty": false
+            },
+            "credit": {
+                "value": 0.0,
+                "confidence": 1,
+                "faulty": false
+            },
+            "balance": {
+                "value": 44239687,
+                "confidence": 0.9975563287734985,
+                "faulty": false
+            }
+        }
+    ]
+}
