@@ -2,32 +2,35 @@
     "id": 0,
     "datetime": {
         "value": "",
-        "confidence": 0.0,
-        "faulty": false
+        "confidence": 0.0
     },
     "valuedate": {
         "value": "",
-        "confidence": 0.0,
-        "faulty": false
+        "confidence": 0.0
     },
     "description": {
         "value": "",
-        "confidence": 0.0,
-        "faulty": false
+        "confidence": 0.0
     },
     "debit": {
         "value": 0.0,
-        "confidence": 0.0,
-        "faulty": false
+        "confidence": 0.0
     },
     "credit": {
         "value": 0.0,
-        "confidence": 0.0,
-        "faulty": false
+        "confidence": 0.0
     },
     "balance": {
         "value": 0.0,
-        "confidence": 1.0,
-        "faulty": false
+        "confidence": 1.0
+    },
+    "calculated_balance": {
+        "value": 0.0
+    },
+    "balance_check": {
+        "value": false
+    },
+    "classification": {
+        "value": ""
     }
 }
